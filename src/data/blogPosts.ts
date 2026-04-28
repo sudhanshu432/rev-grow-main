@@ -14,6 +14,170 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+  id: "5",
+  title: "Demand Generation Isn’t a Campaign—It’s a Commercial Strategy",
+  slug: "demand-generation-isnt-a-campaign-its-a-commercial-strategy",
+  excerpt: "Many B2B organisations treat demand generation as a series of campaigns. In reality, it is a core commercial strategy that drives sustainable pipeline, revenue predictability, and long-term growth.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2026-03-14",
+  readTime: "10 min read",
+  tags: ["Demand Generation", "B2B Growth", "Revenue Strategy", "Marketing Strategy", "GTM"],
+  seoKeywords: [
+    "Demand Generation Strategy",
+    "B2B Demand Generation",
+    "Commercial Strategy",
+    "Revenue Growth",
+    "Pipeline Generation",
+    "GTM Strategy",
+    "B2B Marketing Strategy",
+    "Lead Generation vs Demand Generation",
+    "Sales Marketing Alignment",
+    "B2B Growth Strategy"
+  ],
+  content: `
+## Introduction
+
+In many B2B organisations, demand generation is still treated as a campaign function—something owned by marketing, executed periodically, and measured through short-term metrics such as leads or impressions.
+
+This perspective is fundamentally limiting.
+
+Demand generation, when understood correctly, is not a campaign. It is a commercial strategy—one that directly influences how organisations create, capture, and convert market demand into revenue.
+
+When approached as a series of disconnected activities, demand generation produces inconsistent results. When treated as a strategic capability, it becomes a predictable engine for growth.
+
+## The Problem with a Campaign-Centric Mindset
+
+A campaign-led approach to demand generation often results in:
+
+- Short-term spikes in activity without sustained pipeline growth  
+- Overemphasis on lead volume rather than lead quality  
+- Disconnected messaging across channels  
+- Limited alignment between marketing and sales  
+
+In this model, success is often measured by outputs—clicks, downloads, or form fills—rather than outcomes such as pipeline contribution or revenue impact.
+
+As a result, organisations remain active, but not necessarily effective.
+
+## Demand Generation as a Commercial Function
+
+To unlock its full potential, demand generation must be repositioned as a core commercial function—aligned with revenue objectives and integrated across the entire go-to-market ecosystem.
+
+This requires a shift in thinking:
+
+- From campaigns to continuous engagement  
+- From lead generation to demand creation and capture  
+- From marketing ownership to cross-functional accountability  
+
+When demand generation is embedded within the broader commercial strategy, it becomes a driver of predictable pipeline and sustainable growth.
+
+## 1. Aligning Demand Generation with Revenue Outcomes
+
+Effective demand generation begins with a clear connection to revenue.
+
+This means:
+- Defining pipeline targets, not just lead targets  
+- Mapping demand generation activities to specific revenue stages  
+- Measuring success based on conversion and contribution, not volume  
+
+Organisations that succeed in this area treat demand generation as an investment in revenue creation, not a cost centre.
+
+## 2. Building a Unified Customer Journey
+
+Demand generation does not operate in isolation. It spans the entire customer lifecycle—from initial awareness to conversion and expansion.
+
+A strategic approach requires:
+- Consistent messaging across all touchpoints  
+- Alignment between inbound, outbound, and account-based efforts  
+- Seamless handoffs between marketing, sales, and customer success  
+
+The objective is not just to generate interest, but to guide prospects through a coherent and compelling journey.
+
+## 3. Prioritising Demand Creation, Not Just Capture
+
+Many organisations focus heavily on capturing existing demand—targeting prospects who are already in-market.
+
+While important, this represents only part of the opportunity.
+
+High-performing organisations invest equally in demand creation:
+- Educating the market  
+- Shaping buyer perception  
+- Building brand authority and trust  
+
+This expands the addressable market and ensures a consistent flow of future opportunities.
+
+## 4. Integrating Data, Technology, and Insight
+
+Modern demand generation is data-driven.
+
+However, data alone is insufficient without integration and interpretation.
+
+Effective organisations:
+- Consolidate data across marketing and sales systems  
+- Track engagement across channels and stages  
+- Use insights to refine targeting, messaging, and timing  
+
+Technology enables scale, but insight drives effectiveness.
+
+## 5. Enabling Cross-Functional Accountability
+
+Demand generation cannot be confined to a single team.
+
+It requires shared ownership across:
+- Marketing (awareness and engagement)  
+- Sales (conversion and relationship building)  
+- Customer success (retention and expansion)  
+
+When these functions operate within a unified framework, demand generation becomes a continuous, organisation-wide capability.
+
+## 6. Shifting from Activity to System
+
+A key distinction between average and high-performing organisations is the transition from activity-driven execution to system-driven operations.
+
+Instead of asking:
+- “What campaign should we run next?”
+
+They ask:
+- “How do we continuously generate, nurture, and convert demand?”
+
+This shift enables:
+- Predictability in pipeline generation  
+- Consistency in execution  
+- Scalability across markets and segments  
+
+## What Effective Demand Generation Strategies Do Differently
+
+Organisations that treat demand generation as a commercial strategy demonstrate several defining characteristics:
+
+### Strategic alignment with revenue objectives  
+Demand generation initiatives are directly linked to pipeline and revenue targets, ensuring measurable business impact.
+
+### Integrated go-to-market execution  
+All channels and functions operate cohesively, delivering a consistent and unified customer experience.
+
+### Continuous optimisation  
+Performance is monitored rigorously, with ongoing refinement based on data, insights, and market feedback.
+
+### Long-term perspective  
+Investment is balanced between immediate demand capture and long-term demand creation, enabling sustained growth.
+
+## Conclusion
+
+Demand generation is not a tactical function or a series of campaigns—it is a foundational element of commercial strategy.
+
+Organisations that continue to treat it as a marketing activity will struggle with inconsistency and inefficiency. Those that elevate it to a strategic capability will build stronger pipelines, improve conversion rates, and achieve more predictable growth.
+
+The distinction lies not in effort, but in approach.
+
+At RevGrow, we work with organisations to design and implement demand generation systems that align with broader business objectives—transforming fragmented activity into a structured, revenue-driven strategy.
+
+---
+
+**If your demand generation efforts are producing activity but not consistent pipeline, it may be time to rethink the approach.**
+
+[Connect with RevGrow](/contact) to build a demand generation strategy that delivers measurable commercial outcomes.
+  `
+  },
+  {
   id: "4",
   title: "Why Most B2B GTM Strategies Fail Before Execution Even Begins",
   slug: "why-most-b2b-gtm-strategies-fail-before-execution",
