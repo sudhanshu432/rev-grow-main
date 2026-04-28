@@ -14,6 +14,263 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+  id: "7",
+  title: "Are You Targeting the Right ICP or Just a Broad Market?",
+  slug: "are-you-targeting-the-right-icp-or-just-a-broad-market",
+  excerpt: "Many B2B organisations believe they have defined their Ideal Customer Profile, yet continue to target broadly. This lack of precision impacts messaging, pipeline quality, and conversion outcomes more than most realise.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2026-04-03",
+  readTime: "11 min read",
+  tags: ["ICP", "B2B Growth", "GTM Strategy", "Targeting", "Demand Generation"],
+  seoKeywords: [
+    "Ideal Customer Profile",
+    "ICP Strategy",
+    "B2B Targeting",
+    "GTM Strategy",
+    "Demand Generation",
+    "Pipeline Quality",
+    "Customer Segmentation",
+    "B2B Marketing Strategy",
+    "Revenue Growth",
+    "Target Market"
+  ],
+  content: `
+## Introduction
+
+In most B2B organisations, the concept of an Ideal Customer Profile (ICP) is well understood—at least in principle.
+
+Teams can often describe their target market in broad terms:
+- Industry segments  
+- Company size  
+- Job titles  
+
+Yet despite this, many organisations continue to experience:
+- Low engagement rates  
+- Inconsistent pipeline quality  
+- Extended sales cycles  
+
+The underlying issue is rarely the absence of an ICP.  
+It is the lack of precision in how that ICP is defined and operationalised.
+
+In practice, many organisations are not targeting an ideal customer profile—they are targeting a broad market with loosely defined boundaries.
+
+The distinction is subtle, but its impact on growth is significant.
+
+## The Illusion of Having an ICP
+
+Declaring an ICP is not the same as defining one.
+
+A common pattern across B2B organisations is the creation of high-level ICP criteria that are too broad to be actionable. For example:
+
+- “Mid-sized SaaS companies”  
+- “Manufacturing firms in Europe”  
+- “Marketing leaders in enterprise organisations”  
+
+While directionally useful, these definitions lack the specificity required to guide:
+- Messaging  
+- Channel selection  
+- Engagement strategy  
+
+As a result, teams default to broad outreach, assuming relevance will emerge through volume.
+
+In reality, this approach dilutes impact and reduces efficiency across the entire go-to-market system.
+
+## 1. The Cost of Targeting a Broad Market
+
+Targeting broadly may create the perception of scale, but it introduces structural inefficiencies.
+
+### Diluted Messaging
+
+When the audience is too wide:
+- Messaging becomes generic  
+- Value propositions lack specificity  
+- Differentiation weakens  
+
+This reduces the likelihood of capturing attention in increasingly competitive markets.
+
+### Lower Engagement Quality
+
+Broad targeting leads to:
+- Higher outreach volume  
+- Lower response rates  
+- Superficial engagement  
+
+Prospects may interact, but without clear alignment, progression remains limited.
+
+### Inefficient Pipeline
+
+Pipeline generated from broad targeting often includes:
+- Poorly qualified leads  
+- Misaligned opportunities  
+- Longer sales cycles  
+
+This increases the burden on sales teams while reducing overall conversion efficiency.
+
+## 2. What a True ICP Looks Like
+
+A well-defined ICP goes beyond firmographics.
+
+It incorporates a combination of:
+- Organisational characteristics  
+- Behavioural signals  
+- Strategic fit  
+
+### Key Dimensions of a Strong ICP
+
+**Firmographic Fit**  
+Industry, company size, geography, and revenue range.
+
+**Problem Relevance**  
+The specific challenges the organisation is experiencing and their urgency.
+
+**Buying Behaviour**  
+How the organisation evaluates solutions, including decision-making structures and timelines.
+
+**Value Alignment**  
+The extent to which your solution delivers measurable impact within their context.
+
+A true ICP is not simply a description of who *could* buy—it is a definition of who is *most likely to derive value and convert efficiently*.
+
+## 3. From Definition to Operationalisation
+
+Even when ICP is defined correctly, many organisations struggle to operationalise it.
+
+This is where the gap between theory and execution emerges.
+
+Operationalising ICP requires:
+
+- Translating ICP into targeting criteria within campaigns  
+- Aligning messaging to specific segments within the ICP  
+- Prioritising accounts based on strategic fit  
+- Ensuring sales and marketing operate with a shared understanding  
+
+Without this, ICP remains a static document rather than a functional driver of growth.
+
+## 4. The Impact on Demand Generation
+
+Demand generation effectiveness is directly tied to ICP precision.
+
+When ICP is broad:
+- Campaign performance becomes inconsistent  
+- Cost per acquisition increases  
+- Engagement lacks depth  
+
+When ICP is precise:
+- Messaging resonates more effectively  
+- Engagement becomes more meaningful  
+- Conversion rates improve across the funnel  
+
+Demand generation does not fail due to lack of effort.  
+It fails when it is not aligned with the right audience.
+
+## 5. ICP and Pipeline Quality
+
+Pipeline quality is a direct reflection of targeting decisions made upstream.
+
+A misaligned ICP results in:
+- Opportunities that lack urgency  
+- Deals that stall in later stages  
+- Reduced win rates  
+
+Conversely, a precise ICP ensures that:
+- Opportunities are better qualified  
+- Conversations are more relevant  
+- Sales cycles are more efficient  
+
+In this sense, ICP is not just a marketing construct—it is a fundamental driver of revenue performance.
+
+## 6. Why Organisations Default to Broad Targeting
+
+Despite understanding the importance of ICP, many organisations revert to broad targeting.
+
+Common reasons include:
+
+- Pressure to generate volume quickly  
+- Lack of sufficient data to refine targeting  
+- Internal misalignment on priority segments  
+- Perception that narrowing focus limits growth  
+
+In reality, the opposite is true.
+
+Precision does not limit opportunity—it increases efficiency and effectiveness within the most valuable segments.
+
+## Where the Real Challenge Lies
+
+The challenge is not recognising the importance of ICP.
+
+It is developing the clarity and discipline required to:
+- Define it precisely  
+- Apply it consistently  
+- Refine it continuously based on data  
+
+This requires a structured approach that integrates:
+- Market insights  
+- Customer data  
+- Commercial objectives  
+
+Without this integration, ICP remains theoretical.
+
+## The Difference Between Reach and Relevance
+
+Many organisations optimise for reach.
+
+High-performing organisations optimise for relevance.
+
+Reach increases visibility.  
+Relevance drives conversion.
+
+The shift from reach to relevance requires:
+- Narrowing focus  
+- Deepening understanding  
+- Aligning every aspect of the go-to-market strategy with the defined ICP  
+
+This is where meaningful growth begins.
+
+## What High-Performing Organisations Do Differently
+
+Organisations that consistently achieve strong growth demonstrate a different approach to ICP:
+
+### They define ICP with precision  
+Targeting is based on detailed, data-informed criteria rather than broad assumptions.
+
+### They align the entire organisation around ICP  
+Marketing, sales, and strategy operate with a shared understanding of the ideal customer.
+
+### They prioritise quality over volume  
+Effort is focused on segments with the highest potential for conversion and long-term value.
+
+### They continuously refine their ICP  
+Insights from campaigns, sales interactions, and customer outcomes are used to improve targeting over time.
+
+## Conclusion
+
+Targeting the right ICP is not a one-time exercise—it is an ongoing strategic capability.
+
+Organisations that rely on broad market targeting often struggle with inefficiency, inconsistent pipeline, and reduced conversion performance.
+
+Those that invest in precision, alignment, and operational discipline build stronger, more predictable growth systems.
+
+---
+
+## From Broad Targeting to Strategic Precision
+
+Moving from a broad market approach to a well-defined ICP requires more than incremental adjustments.
+
+It involves:
+- Reassessing how markets are segmented  
+- Aligning targeting with commercial priorities  
+- Integrating insights across the go-to-market function  
+
+For many organisations, this is where the real complexity lies—not in recognising the need for focus, but in implementing it effectively.
+
+**If your current targeting approach is generating activity but not consistent pipeline quality, it may be time to evaluate how your ICP is defined and applied in practice.**
+
+RevGrow works with B2B organisations to bring clarity and precision to ICP definition—ensuring that demand generation, messaging, and pipeline development are aligned with the right audience.
+
+[Connect with RevGrow](/contact) to explore how your targeting strategy can be refined for better outcomes.
+  `
+  },
+  {
   id: "6",
   title: "Pipeline Problems Are Rarely a Sales Problem",
   slug: "pipeline-problems-are-rarely-a-sales-problem",
