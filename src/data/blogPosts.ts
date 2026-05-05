@@ -13,6 +13,341 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+{
+  id: "11",
+  title: "More Campaigns Won’t Fix Your Growth Problem",
+  slug: "more-campaigns-wont-fix-your-growth-problem",
+  excerpt: "When growth slows, most B2B organisations respond by increasing campaign volume. However, activity expansion rarely solves systemic issues. This article explains why more campaigns fail to drive predictable growth—and what structural changes are actually required.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2026-05-01",
+  readTime: "15 min read",
+  tags: ["GTM Strategy", "Demand Generation", "B2B Growth", "Revenue Operations", "Marketing Strategy"],
+  seoKeywords: [
+    "B2B Campaign Strategy",
+    "Demand Generation Problems",
+    "GTM Growth Issues",
+    "Pipeline Growth Strategy",
+    "Marketing Campaign Effectiveness",
+    "Revenue Operations Alignment",
+    "Scaling B2B Growth",
+    "Lead Generation Challenges",
+    "Campaign ROI",
+    "Growth Strategy B2B"
+  ],
+  content: `
+## Introduction
+
+In B2B organisations, slowing growth often triggers a predictable response:
+
+Launch more campaigns.
+
+The assumption is straightforward:
+- More campaigns → More leads  
+- More leads → More pipeline  
+- More pipeline → More revenue  
+
+At a surface level, this logic appears sound.
+
+However, in practice, this approach rarely produces sustained growth.
+
+Instead, organisations experience:
+- Increasing activity without proportional pipeline impact  
+- Rising acquisition costs  
+- Inconsistent conversion rates  
+- Growing operational complexity  
+
+The issue is not a lack of campaigns.
+
+It is a lack of **structural alignment within the GTM system**.
+
+Campaigns are execution vehicles—not growth engines in isolation.
+
+Without a coherent system behind them, increasing campaign volume only amplifies inefficiencies.
+
+---
+
+## The Campaign Volume Trap
+
+Campaign expansion is often mistaken for progress.
+
+Marketing dashboards begin to show:
+- More launches per quarter  
+- Higher engagement activity  
+- Increased top-of-funnel metrics  
+
+However, revenue outcomes remain unstable.
+
+This creates a false sense of momentum.
+
+In reality:
+- Campaigns operate independently  
+- Messaging varies across initiatives  
+- Targeting lacks consistency  
+- Learnings are not systematically applied  
+
+This results in what can be described as **fragmented execution at scale**.
+
+Instead of compounding impact, campaigns dilute focus.
+
+**Growth does not come from campaign quantity—it comes from system coherence.**
+
+---
+
+## 1. Campaigns Cannot Compensate for Weak Targeting
+
+If targeting is misaligned, campaign expansion accelerates inefficiency.
+
+Common patterns include:
+- Broad ICP definitions  
+- Outdated segmentation models  
+- Lack of behavioural or intent-based filtering  
+
+As a result:
+- Campaigns reach audiences with low commercial relevance  
+- Engagement increases without conversion  
+- Sales teams receive low-quality pipeline  
+
+This creates friction across the funnel.
+
+In structurally aligned systems:
+- Targeting is continuously refined based on revenue outcomes  
+- ICP definitions are tied to deal economics and expansion potential  
+- Campaigns focus on high-probability segments  
+
+Without this foundation, additional campaigns simply generate **more of the wrong activity**.
+
+---
+
+## 2. Messaging Inconsistency Erodes Market Positioning
+
+Each campaign introduces messaging into the market.
+
+When campaigns are not centrally aligned:
+- Value propositions vary  
+- Pain points shift across initiatives  
+- Positioning becomes fragmented  
+
+From the buyer’s perspective:
+- The company appears inconsistent  
+- Differentiation becomes unclear  
+- Trust erodes over time  
+
+Internally:
+- Sales struggles to reinforce messaging  
+- Content becomes difficult to reuse  
+- Campaign performance becomes unpredictable  
+
+Effective GTM systems treat messaging as a **strategic asset**, not a campaign variable.
+
+Campaigns should reinforce positioning—not redefine it.
+
+---
+
+## 3. Channel Expansion Without Orchestration Reduces Impact
+
+More campaigns often mean more channels:
+- Paid media  
+- Email sequences  
+- Social outreach  
+- Events and webinars  
+
+However, without orchestration:
+- Channels operate in isolation  
+- Buyer journeys become disjointed  
+- Engagement lacks continuity  
+
+For example:
+- A prospect engages with a LinkedIn ad  
+- Receives unrelated email messaging  
+- Is later contacted by sales without context  
+
+This breaks momentum.
+
+In aligned systems:
+- Channels are sequenced intentionally  
+- Each interaction builds on the previous one  
+- Buyer progression is guided—not left to chance  
+
+**Channels should function as a coordinated system—not parallel activities.**
+
+---
+
+## 4. Campaign Growth Increases Operational Complexity
+
+Each new campaign introduces:
+- Additional assets  
+- More workflows  
+- Increased coordination requirements  
+
+Over time, this leads to:
+- Execution bottlenecks  
+- Inconsistent campaign quality  
+- Delays in launch cycles  
+- Reduced ability to analyse performance effectively  
+
+Teams begin to spend more time managing operations than improving outcomes.
+
+This is a signal that the system is not designed for scale.
+
+High-performing organisations:
+- Standardise campaign architectures  
+- Use repeatable frameworks  
+- Limit variability in execution models  
+
+This allows them to scale output without increasing complexity proportionally.
+
+---
+
+## 5. Data Fragmentation Prevents Meaningful Optimisation
+
+More campaigns generate more data.
+
+But without integration:
+- Insights remain isolated within individual campaigns  
+- Cross-channel performance is unclear  
+- Attribution becomes unreliable  
+
+Typical outcomes include:
+- Optimisation decisions based on incomplete data  
+- Inability to identify true performance drivers  
+- Repetition of ineffective strategies  
+
+In aligned GTM systems:
+- Data is unified across campaigns and channels  
+- Metrics are tied to pipeline and revenue  
+- Learnings are systematically applied to future execution  
+
+**Data must inform the system—not just report on activity.**
+
+---
+
+## The System-Level Reality
+
+The failure of campaign expansion is not accidental.
+
+It reflects a deeper structural issue:
+
+- Targeting is not aligned with revenue potential  
+- Messaging is not standardised  
+- Channels are not orchestrated  
+- Execution is not systematised  
+- Data is not operationalised  
+
+Campaigns, in this context, become disconnected efforts rather than coordinated growth drivers.
+
+---
+
+## Why More Campaigns Feel Like the Right Answer
+
+Despite limited results, organisations continue to increase campaign volume.
+
+This happens because campaigns are:
+- Visible  
+- Measurable at a surface level  
+- Easier to execute than structural change  
+
+In contrast, system redesign requires:
+- Cross-functional alignment  
+- Strategic clarity  
+- Operational discipline  
+
+Campaign expansion is a tactical response to a structural problem.
+
+It creates activity—but not necessarily progress.
+
+---
+
+## From Campaign Expansion to System Design
+
+To achieve predictable growth, organisations must shift focus.
+
+From:
+- Number of campaigns  
+- Channel presence  
+- Activity metrics  
+
+To:
+- System alignment  
+- Buyer journey design  
+- Revenue outcomes  
+
+This involves:
+
+### Redefining ICP and Targeting Logic  
+Align segments with revenue potential and buying behaviour.
+
+### Establishing a Unified Messaging Framework  
+Ensure all campaigns reinforce a consistent market position.
+
+### Designing Channel Orchestration  
+Map how channels interact across the buyer journey.
+
+### Building Repeatable Campaign Architectures  
+Standardise execution models for scalability.
+
+### Integrating Data Across the Funnel  
+Enable real-time, revenue-linked decision-making.
+
+---
+
+## What High-Performing Organisations Do Differently
+
+Organisations that achieve consistent growth do not rely on campaign volume.
+
+They:
+
+### Treat campaigns as components of a system  
+Each campaign has a defined role within a larger strategy.
+
+### Focus on quality over quantity  
+Fewer, better-aligned campaigns outperform high-volume activity.
+
+### Align marketing with revenue functions  
+Campaigns are designed in collaboration with sales and customer success.
+
+### Prioritise buyer experience over internal activity  
+Engagement is structured around how buyers progress—not how teams operate.
+
+### Continuously refine based on system-level insights  
+Optimisation happens across the GTM system, not within isolated campaigns.
+
+---
+
+## Conclusion
+
+More campaigns do not solve growth problems.
+
+They amplify them when the underlying system is misaligned.
+
+Sustainable B2B growth is not driven by activity volume.
+
+It is driven by:
+- Strategic clarity  
+- System design  
+- Execution consistency  
+
+Campaigns are necessary—but insufficient on their own.
+
+---
+
+## From Activity Expansion to Predictable Growth
+
+For leadership teams, the key question is not:
+
+“How many campaigns are we running?”
+
+It is:
+
+“Is our GTM system designed to convert activity into revenue predictably?”
+
+If campaigns are increasing but growth is not, the issue is structural—not tactical.
+
+RevGrow works with B2B organisations to move beyond campaign-driven execution—designing GTM systems that align targeting, messaging, channels, and data into a cohesive growth engine.
+
+[Connect with RevGrow](/contact) to evaluate whether your growth challenges are rooted in execution—or in the system itself.
+  `
+},
+
    {
   id: "10",
   title: "5 Signs Your GTM Strategy Is Structurally Misaligned",
