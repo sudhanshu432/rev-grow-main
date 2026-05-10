@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
   slug: "why-most-gtm-strategies-fail-during-execution",
   excerpt: "Most B2B go-to-market strategies don’t fail because they’re poorly designed—they fail during execution. This article explores why execution breaks down, the hidden gaps between strategy and results, and how to build a system that turns plans into predictable growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-11",
+  publishDate: "2026-02-22",
   readTime: "10 min read",
   tags: ["GTM Strategy", "B2B Growth", "Revenue Operations", "Execution Strategy", "Pipeline Growth"],
   seoKeywords: [
@@ -311,7 +311,7 @@ RevGrow helps B2B organisations turn strategy into a structured, repeatable exec
   slug: "more-campaigns-wont-fix-your-growth-problem",
   excerpt: "When growth slows, most B2B organisations respond by increasing campaign volume. However, activity expansion rarely solves systemic issues. This article explains why more campaigns fail to drive predictable growth—and what structural changes are actually required.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-10",
+  publishDate: "2026-02-11",
   readTime: "15 min read",
   tags: ["GTM Strategy", "Demand Generation", "B2B Growth", "Revenue Operations", "Marketing Strategy"],
   seoKeywords: [
@@ -646,7 +646,7 @@ RevGrow works with B2B organisations to move beyond campaign-driven execution—
   slug: "5-signs-your-gtm-strategy-is-structurally-misaligned",
   excerpt: "GTM underperformance is rarely caused by effort gaps. More often, it reflects structural misalignment across targeting, messaging, channels, and execution systems. This article outlines five critical signals that your GTM strategy is not built for predictable, scalable growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-07",
+  publishDate: "2026-01-30",
   readTime: "15 min read",
   tags: ["GTM Strategy", "Revenue Operations", "B2B Growth", "Demand Generation", "Operating Model"],
   seoKeywords: [
@@ -940,7 +940,7 @@ RevGrow works with B2B organisations to diagnose and realign GTM systems—trans
   slug: "turning-strategy-into-execution-where-most-teams-struggle",
   excerpt: "While most B2B organisations invest heavily in strategy, far fewer succeed in translating that strategy into consistent execution. The real challenge lies not in planning, but in operationalising intent into scalable, measurable outcomes.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-03",
+  publishDate: "2026-01-18",
   readTime: "14 min read",
   tags: ["GTM Strategy", "Execution", "B2B Growth", "Revenue Operations", "Operating Model"],
   seoKeywords: [
@@ -1234,7 +1234,7 @@ RevGrow works with B2B organisations to design and operationalise execution mode
   slug: "structure-behind-effective-multi-channel-demand-generation",
   excerpt: "Multi-channel demand generation is often misunderstood as simply being present across platforms. In reality, effectiveness comes from structure, alignment, and system-driven execution across the entire buyer journey.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-02",
+  publishDate: "2026-01-08",
   readTime: "12 min read",
   tags: ["Demand Generation", "Multi-Channel Marketing", "B2B Growth", "GTM Strategy", "Revenue Strategy"],
   seoKeywords: [
@@ -1498,7 +1498,7 @@ RevGrow works with B2B organisations to design and operationalise integrated mul
   slug: "are-you-targeting-the-right-icp-or-just-a-broad-market",
   excerpt: "Many B2B organisations believe they have defined their Ideal Customer Profile, yet continue to target broadly. This lack of precision impacts messaging, pipeline quality, and conversion outcomes more than most realise.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-01",
+  publishDate: "2025-12-29",
   readTime: "11 min read",
   tags: ["ICP", "B2B Growth", "GTM Strategy", "Targeting", "Demand Generation"],
   seoKeywords: [
@@ -1755,7 +1755,7 @@ RevGrow works with B2B organisations to bring clarity and precision to ICP defin
   slug: "pipeline-problems-are-rarely-a-sales-problem",
   excerpt: "When pipeline underperforms, sales is often blamed first. In reality, most pipeline issues originate upstream—in strategy, targeting, and demand generation. This article explores where the real breakdown occurs.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-11-30",
+  publishDate: "2025-12-18",
   readTime: "11 min read",
   tags: ["Pipeline", "B2B Growth", "Revenue Strategy", "Demand Generation", "GTM Strategy"],
   seoKeywords: [
@@ -1998,7 +1998,7 @@ RevGrow works with B2B organisations to design integrated revenue systems that i
   slug: "demand-generation-isnt-a-campaign-its-a-commercial-strategy",
   excerpt: "Many B2B organisations still approach demand generation as a campaign function. In reality, it is a core commercial strategy that determines how effectively a business creates, converts, and sustains revenue growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-11-28",
+  publishDate: "2025-12-10",
   readTime: "10 min read",
   tags: ["Demand Generation", "B2B Growth", "Revenue Strategy", "GTM Strategy", "Pipeline"],
   seoKeywords: [
@@ -2186,7 +2186,7 @@ At RevGrow, we work with organisations to build demand generation systems that a
   slug: "why-most-gtm-strategies-fail-during-execution",
   excerpt: "Go-to-market strategies rarely fail on paper—they fail in execution. This article explores the structural, operational, and organisational gaps that prevent GTM strategies from translating into measurable revenue outcomes.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-11-19",
+  publishDate: "2025-12-03",
   readTime: "10 min read",
   tags: ["GTM Strategy", "B2B Growth", "Revenue Strategy", "Execution", "Demand Generation"],
   seoKeywords: [
@@ -2397,7 +2397,7 @@ For organisations seeking predictable and scalable growth, the focus must shift 
     slug: "hidden-growth-barrier-uk-b2b-misaligned-gtm-strategy",
     excerpt: "Many UK B2B organisations struggle to achieve predictable, scalable revenue not because of poor effort, but because their go-to-market functions are misaligned. Learn why strategic clarity is the foundation of scalable growth.",
     author: "Mahi Shrivastava",
-    publishDate: "2025-11-15",
+    publishDate: "2025-11-28",
     readTime: "10 min read",
     tags: ["GTM Strategy", "B2B Marketing", "UK Business", "Business Growth", "Lead Generation", "Demand Generation", "Revenue Growth"],
     seoKeywords: [
@@ -2541,7 +2541,7 @@ If your organisation is preparing for its next stage of scale, our expert's team
     slug: "winning-leads-with-video-marketing-2026",
     excerpt: "Decision-makers don't just read anymore, they watch. Learn how to make video marketing a true lead generation engine and not just a content format in 2026.",
     author: "Mahi Shrivastava",
-    publishDate: "2025-11-09",
+    publishDate: "2025-11-15",
     readTime: "12 min read",
     tags: ["Video Marketing", "B2B Lead Generation", "Content Strategy", "Digital Marketing"],
     seoKeywords: [
@@ -2569,7 +2569,7 @@ Why? Because they're made to impress, not to engage. They focus on branding, not
 
 In this blog, we'll explore how you can make video marketing a true lead generation engine and not just a content format.
 
-## 🎯 Why Video Marketing Works So Well for B2B
+##  Why Video Marketing Works So Well for B2B
 
 In a world of endless information, attention is currency. Video captures and holds that attention better than any other medium. But beyond visibility, video does three powerful things for B2B brands:
 
@@ -2581,7 +2581,7 @@ In a world of endless information, attention is currency. Video captures and hol
 
 When done right, video marketing becomes less about "views" and more about revenue impact.
 
-## 🧭 The 2026 Shift: What's Changing in B2B Video Strategy
+##  The 2026 Shift: What's Changing in B2B Video Strategy
 
 The way buyers consume video has evolved dramatically over the last few years.
 
@@ -2597,7 +2597,7 @@ Here's what 2026 looks like:
 
 Simply say that the future of B2B video marketing is human, data-aware, and context-driven.
 
-## 🎬 Types of Videos That Drive Qualified B2B Leads
+##  Types of Videos That Drive Qualified B2B Leads
 
 Not all videos are built to generate leads. Some attract attention, others convert. Here are six proven formats that consistently bring in high-intent prospects:
 
@@ -2625,7 +2625,7 @@ If you're already hosting webinars or panels, repurpose those into snackable cli
 
 Instead of another cold email, imagine a 30-second personalized video to a prospect, addressing their company and pain points directly. That's the difference between "ignored" and "booked."
 
-## 💡 Integrating Video into Your B2B Lead Generation Funnel
+##  Integrating Video into Your B2B Lead Generation Funnel
 
 To make video work for lead gen, it needs to be part of a structured funnel and not a standalone effort.
 
@@ -2656,7 +2656,7 @@ Here's how to align it across each stage:
 
 **Goal**: Build confidence and accelerate close.
 
-## 📈 Optimizing for Maximum Conversion
+##  Optimizing for Maximum Conversion
 
 Creating videos is half the job. The real magic lies in optimization by making sure every video has purpose and measurable impact.
 
@@ -2672,7 +2672,7 @@ Here's what top-performing B2B teams focus on:
 
 **Track performance metrics**: Go beyond views. Measure watch time, click-through rates, and conversion-to-meeting ratio.
 
-## 🤖 The Role of AI in Video Marketing
+##  The Role of AI in Video Marketing
 
 AI isn't replacing human creativity, it's enhancing it. Here's how forward-thinking B2B teams are leveraging AI today:
 
@@ -2686,7 +2686,7 @@ AI isn't replacing human creativity, it's enhancing it. Here's how forward-think
 
 The key is balance. Use AI for efficiency but keep your brand voice and authenticity human.
 
-## 🧠 Measuring the ROI of Video in B2B Lead Gen
+##  Measuring the ROI of Video in B2B Lead Gen
 
 Executives often ask, "How do we know it's working?" Here's how to quantify success beyond vanity metrics:
 
@@ -2700,29 +2700,29 @@ Executives often ask, "How do we know it's working?" Here's how to quantify succ
 
 When tracked consistently, these insights reveal which videos truly move revenue, not just reach.
 
-## 💬 Common Mistakes to Avoid
+##  Common Mistakes to Avoid
 
 Even the best marketers make these avoidable errors:
 
-❌ Treating video as a one-off campaign instead of a consistent strategy.
+  Treating video as a one-off campaign instead of a consistent strategy.
 
-❌ Focusing too much on production quality and too little on storytelling.
+  Focusing too much on production quality and too little on storytelling.
 
-❌ Ignoring analytics after publishing.
+  Ignoring analytics after publishing.
 
-❌ Forgetting that B2B buyers are still humans, emotion still drives logic.
+  Forgetting that B2B buyers are still humans, emotion still drives logic.
 
 Keep your videos simple, helpful, and human, so they'll do their job.
 
-## 🚀 How RevGrow Uses Video to Accelerate B2B Growth
+##  How RevGrow Uses Video to Accelerate B2B Growth
 
 At RevGrow, we've seen video transform cold outreach into meaningful conversations. From personalized prospecting clips to strategic brand storytelling, our approach blends:
 
-✅ **Data-driven targeting** - ensuring your message reaches decision-makers who are already searching for solutions.
+  **Data-driven targeting** - ensuring your message reaches decision-makers who are already searching for solutions.
 
-✅ **AI-powered personalization** - for scalable yet human outreach.
+  **AI-powered personalization** - for scalable yet human outreach.
 
-✅ **Multi-channel distribution** - integrating video seamlessly into your email, LinkedIn, and outbound systems.
+  **Multi-channel distribution** - integrating video seamlessly into your email, LinkedIn, and outbound systems.
 
 The result? Consistent engagement, better-qualified leads, and faster deal velocity.
 
@@ -2734,7 +2734,7 @@ When combined with intent data, authentic storytelling, and strategic follow-up,
 
 So, as you plan your 2026 lead generation strategy, ask yourself:
 
-🎥 **Are you creating videos to be watched or to convert?**
+**Are you creating videos to be watched or to convert?**
 
 If you're ready to transform your video strategy from "content" to conversion, the RevGrow team can help you design, optimize, and scale a system that drives measurable impact.
 
@@ -2780,13 +2780,13 @@ You can confidently target new markets, manage larger prospect lists, and mainta
 
 ### In Short, A Scalable Lead Generation Strategy Lets You:
 
-✅ Handle more leads without chaos or inefficiency  
-✅ Maintain personalization and quality  
-✅ Grow revenue predictably
+  Handle more leads without chaos or inefficiency  
+  Maintain personalization and quality  
+  Grow revenue predictably
 
 Here's how you create a 2025-effective scalable B2B lead generation system. Combining multi-channel outreach, data-driven targeting, and human-first adaptation is crucial. With each new campaign, your lead generation cycle not only expands but also gets enhanced if done correctly.
 
-## 1️⃣ Start with a Clear Foundation: Define Your ICP
+## 1. Start with a Clear Foundation: Define Your ICP
 
 Clarity is the first step toward scalable growth. The industry sectors, job titles, business size, pain points, and purchasing impulses of your ideal customers are all outlined in your **Ideal Customer Profile (ICP)**. Even the most effective marketing campaigns fail to resonate in the absence of a strong ICP.
 
@@ -2797,7 +2797,7 @@ At RevGrow, we begin every campaign by helping clients sharpen their ICP so ever
 - Use existing customer data to spot patterns (deal size, cycle length, retention)
 - Map common challenges and use them as conversation starters in your messaging
 
-## 2️⃣ Build a Multi-Channel Presence
+## 2. Build a Multi-Channel Presence
 
 Your reach will be limited if you only use one channel, such as LinkedIn or cold email. Scalability is achieved through the integration of many channels, such as events, content marketing, email nurturing, warm introductions, and LinkedIn. For the brand to stand out and be appealing to leads and prospects, media convergence is essential.
 
@@ -2810,7 +2810,7 @@ Your reach will be limited if you only use one channel, such as LinkedIn or cold
 
 At RevGrow, campaigns are designed so these channels reinforce one another, creating consistent brand touchpoints across the buyer journey.
 
-## 3️⃣ Personalize at Scale (Without Losing the Human Touch)
+## 3. Personalize at Scale (Without Losing the Human Touch)
 
 Automation tools make outreach easier, but personalization makes it effective. Scalable lead generation doesn't mean sending more messages—it means sending smarter ones.
 
@@ -2822,7 +2822,7 @@ Automation tools make outreach easier, but personalization makes it effective. S
 
 RevGrow's approach blends automation with human insights using personalization frameworks that maintain relevance at scale while preserving authenticity.
 
-## 4️⃣ Create Content That Educates and Builds Trust
+## 4. Create Content That Educates and Builds Trust
 
 In 2025, the B2B buyer journey is **70-80% digital** before they ever talk to a salesperson. This implies that before the outreach even begins, your content—like blogs, LinkedIn posts, whitepapers, case studies, etc.—must help the prospects to become aware and think about it.
 
@@ -2834,7 +2834,7 @@ In 2025, the B2B buyer journey is **70-80% digital** before they ever talk to a 
 
 By consistently sharing valuable content, you position your brand as a trusted authority and not just another vendor.
 
-## 5️⃣ Measure, Optimize, and Repeat
+## 5. Measure, Optimize, and Repeat
 
 Scalability is built on iteration. You can't improve what you don't measure. So track key metrics like:
 
@@ -2845,24 +2845,24 @@ Scalability is built on iteration. You can't improve what you don't measure. So 
 
 To constantly improve ROI, RevGrow tracks campaign performance, identifies trends, and modifies targeting or messaging.
 
-## 6️⃣ The RevGrow Advantage: Turning Outreach into Relationships
+## 6. The RevGrow Advantage: Turning Outreach into Relationships
 
 While many agencies focus on quick lead counts, RevGrow focuses on sustainable revenue systems.
 
 ### Here's What Sets RevGrow Apart
 
-✅ Human-centred, relationship-first lead generation  
-✅ Multi-channel tactics (email, events, referrals, LinkedIn)  
-✅ GDPR-compliant, data-conscious communication  
-✅ Continuous optimization and reporting  
-✅ Predictable, high-quality pipeline growth
+  Human-centred, relationship-first lead generation  
+  Multi-channel tactics (email, events, referrals, LinkedIn)  
+  GDPR-compliant, data-conscious communication  
+  Continuous optimization and reporting  
+  Predictable, high-quality pipeline growth
 
 ### Without a Structured System Like RevGrow's
 
-⚠️ Outreach feels random and inconsistent  
-⚠️ Lead quality drops  
-⚠️ Growth becomes unpredictable  
-⚠️ Valuable prospects slip through the cracks
+  Outreach feels random and inconsistent  
+  Lead quality drops  
+  Growth becomes unpredictable  
+  Valuable prospects slip through the cracks
 
 ## Conclusion
 
