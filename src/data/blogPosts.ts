@@ -2210,7 +2210,6 @@ At RevGrow, we work with organisations to build demand generation systems that a
   content: `
 ## Introduction
 
-
 In today’s B2B landscape, most organisations are not struggling because they lack ambition, market opportunity, or investment in growth initiatives. In fact, many companies have sophisticated go-to-market strategies, experienced leadership teams, advanced technology stacks, and highly active revenue functions. On paper, their GTM approach appears strong, well-structured, and capable of driving scalable growth.
 
 Yet despite this, execution outcomes often remain inconsistent.
