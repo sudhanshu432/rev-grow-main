@@ -13,6 +13,195 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+   {
+  id: "4",
+  title: "Demand Generation Isn’t a Campaign—It’s a Commercial Strategy",
+  slug: "demand-generation-isnt-a-campaign-its-a-commercial-strategy",
+  excerpt: "Many B2B organisations still approach demand generation as a campaign function. In reality, it is a core commercial strategy that determines how effectively a business creates, converts, and sustains revenue growth.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2025-12-03",
+  readTime: "10 min read",
+  tags: ["Demand Generation", "B2B Growth", "Revenue Strategy", "GTM Strategy", "Pipeline"],
+  seoKeywords: [
+    "Demand Generation Strategy",
+    "B2B Demand Generation",
+    "Commercial Strategy",
+    "Revenue Growth",
+    "Pipeline Generation",
+    "GTM Strategy",
+    "B2B Marketing",
+    "Lead Generation vs Demand Generation",
+    "Sales Marketing Alignment",
+    "Demand Creation"
+  ],
+  content: `
+## Introduction
+
+In many B2B organisations, demand generation continues to be treated as a campaign-driven function—owned by marketing, executed in phases, and measured through short-term outputs such as leads or engagement metrics.
+
+This interpretation, while common, is fundamentally limiting.
+
+Demand generation is not a campaign layer added to the business. It is a commercial discipline that shapes how an organisation creates market demand, converts that demand into pipeline, and sustains revenue over time.
+
+The distinction is critical. Organisations that treat demand generation as a tactical activity tend to experience inconsistent performance. Those that position it as a strategic capability build predictable and scalable growth systems.
+
+## The Constraint of Campaign-Led Thinking
+
+A campaign-led approach often creates the perception of progress without delivering sustained outcomes.
+
+There is visible activity:
+- Campaigns are launched  
+- Content is distributed  
+- Leads are generated  
+
+However, over time, underlying issues begin to surface:
+- Pipeline lacks consistency  
+- Lead quality becomes a point of contention  
+- Conversion rates fluctuate without clear drivers  
+
+This occurs because campaigns, by nature, are temporary.  
+Revenue growth, by contrast, requires continuity and structure.
+
+When demand generation is reduced to campaigns, organisations optimise for activity rather than effectiveness.
+
+## Reframing Demand Generation as a Commercial Strategy
+
+Treating demand generation as a commercial strategy fundamentally changes how it is designed and executed.
+
+It shifts the focus from:
+- “What campaign should we run next?”  
+
+to:
+- “How do we systematically create, nurture, and convert demand across the market?”  
+
+This shift introduces:
+- Long-term accountability  
+- Cross-functional alignment  
+- Measurable contribution to revenue  
+
+Demand generation becomes responsible not just for awareness, but for the quality, consistency, and progression of pipeline.
+
+## 1. From Lead Volume to Pipeline Quality
+
+One of the most common misalignments in B2B organisations is the emphasis on lead volume as a primary success metric.
+
+High-performing organisations recognise that:
+- Volume does not equate to value  
+- Poorly qualified leads create downstream inefficiencies  
+
+Instead, they prioritise:
+- Alignment with Ideal Customer Profile (ICP)  
+- Depth of engagement  
+- Evidence of buying intent  
+
+This ensures that demand generation contributes to pipeline that is both relevant and convertible.
+
+## 2. Continuous Demand Creation, Not Intermittent Capture
+
+Most organisations focus predominantly on capturing existing demand—engaging prospects who are already evaluating solutions.
+
+While necessary, this approach is inherently reactive.
+
+A more effective model balances:
+- Demand capture (short-term opportunity)  
+- Demand creation (long-term market development)  
+
+Demand creation involves:
+- Educating buyers before they enter the market  
+- Shaping problem awareness  
+- Establishing credibility and trust over time  
+
+This is what enables sustained pipeline generation rather than periodic spikes.
+
+## 3. Integration Across the Revenue Organisation
+
+Demand generation cannot operate in isolation.
+
+When marketing, sales, and customer success functions are misaligned, the impact is immediate:
+- Marketing generates leads that sales deprioritises  
+- Sales engages prospects without sufficient context  
+- Customer expectations are inconsistently managed  
+
+A commercial strategy ensures:
+- Shared definitions of qualified opportunities  
+- Consistent messaging across the buyer journey  
+- Coordinated execution across functions  
+
+This alignment transforms fragmented efforts into a cohesive revenue system.
+
+## 4. Structuring the Buyer Journey
+
+Modern B2B buyers do not follow a linear path.
+
+They:
+- Conduct independent research  
+- Engage across multiple channels  
+- Interact with content long before direct engagement  
+
+Demand generation must be designed around this reality.
+
+This requires:
+- Clear mapping of buyer stages  
+- Stage-specific messaging and content  
+- Defined transition points between marketing and sales  
+
+Without this structure, organisations lose visibility and control over how demand progresses.
+
+## 5. Building a System, Not a Series of Activities
+
+The defining difference between average and high-performing organisations lies in this shift:
+
+From activity-driven execution  
+to  
+system-driven operation  
+
+A demand generation system is:
+- Repeatable  
+- Measurable  
+- Continuously optimised  
+
+It enables:
+- Predictable pipeline generation  
+- Scalable execution  
+- Consistent performance across markets  
+
+This is where demand generation evolves from effort to capability.
+
+## What High-Performing Organisations Do Differently
+
+Organisations that treat demand generation as a commercial strategy demonstrate consistent patterns:
+
+### They align demand generation with revenue outcomes  
+Every initiative is directly linked to pipeline contribution and commercial impact.
+
+### They operate as a unified revenue organisation  
+Sales, marketing, and customer success function within a shared framework.
+
+### They prioritise focus over expansion  
+Effort is concentrated on a defined set of high-impact initiatives.
+
+### They invest in long-term demand creation  
+They balance immediate opportunity capture with sustained market development.
+
+## Conclusion
+
+Demand generation is often misunderstood because it is frequently executed without being strategically defined.
+
+When treated as a campaign function, it produces activity.  
+When treated as a commercial strategy, it produces outcomes.
+
+The difference is not in tools or tactics, but in how the organisation structures its approach to growth.
+
+At RevGrow, we work with organisations to build demand generation systems that are aligned with broader commercial objectives—transforming fragmented efforts into predictable, scalable revenue engines.
+
+---
+
+**If your demand generation efforts are active but not delivering consistent pipeline, the issue may not be execution—it may be how the strategy itself is defined.**
+
+[Connect with RevGrow](/contact) to build a demand generation approach designed for long-term commercial impact.
+  `
+  },
+
   {
     id: "3",
     title: "The Hidden Growth Barrier in UK B2B: Misaligned GTM Strategy",
@@ -157,6 +346,7 @@ If your organisation is preparing for its next stage of scale, our expert's team
 [Contact RevGrow now](/contact), where they can solve the UK's lead as well as system problem.
     `
   },
+  
   {
     id: "2",
     title: "Winning Leads with Video Marketing in 2026",
