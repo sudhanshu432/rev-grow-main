@@ -15,11 +15,11 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
 {
   id: "7",
-  title: "Multi-Channel Demand Generation Strategy: Building an Integrated B2B Growth System for Predictable Pipeline and Revenue",
-  slug: "multi-channel-demand-generation-strategy-integrated-b2b-growth-system-predictable-pipeline-revenue",
-  excerpt: "Most B2B organisations run multi-channel demand generation across LinkedIn, email, paid media, and content—but fail to integrate them into a structured system. This article explains how to build an orchestrated, data-driven demand generation engine that aligns channels, messaging, and buyer journeys for predictable pipeline and revenue growth.",
+  title: "Multi-Channel Demand Generation Strategy: Build a Predictable B2B Pipeline System",
+  slug: "multi-channel-demand-generation-b2b-pipeline-system",
+  excerpt: "Most B2B teams use multiple channels but fail to connect them into a structured demand generation system. Learn how to integrate channels into a unified strategy that drives consistent pipeline and revenue growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-29",
+  publishDate: "2026-04-10",
   readTime: "16 min read",
   tags: [
     "Multi-Channel Demand Generation",
@@ -29,14 +29,14 @@ export const blogPosts: BlogPost[] = [
     "Revenue Operations"
   ],
   seoKeywords: [
-    "multi channel demand generation strategy B2B",
-    "integrated demand generation system",
-    "B2B marketing and sales alignment",
-    "pipeline generation strategy framework",
-    "buyer journey mapping B2B",
-    "GTM orchestration strategy",
-    "account based marketing and demand gen",
-    "B2B revenue growth system",
+    "multi channel demand generation strategy",
+    "B2B demand generation system",
+    "pipeline generation strategy",
+    "GTM strategy B2B",
+    "buyer journey mapping",
+    "marketing and sales alignment",
+    "revenue growth system",
+    "B2B marketing strategy",
     "multi channel marketing integration",
     "predictable pipeline generation"
   ],
