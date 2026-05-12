@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
   slug: "why-strategy-fails-in-execution-b2b-gtm-operating-model",
   excerpt: "Most B2B organisations have strong strategies but struggle to execute them consistently. The real challenge lies in the absence of a structured operating model that connects strategy, teams, and execution into a unified system.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-18",
+  publishDate: "2026-01-08",
   readTime: "14 min read",
   tags: [
     "GTM Strategy",
