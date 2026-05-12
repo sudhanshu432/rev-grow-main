@@ -15,7 +15,7 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
 {
   id: "8",
-  title: "Why Strategy Fails in Execution: Building a Scalable B2B GTM Operating Model",
+  title: "Why Strategy Fails in Execution",
   slug: "why-strategy-fails-in-execution-b2b-gtm-operating-model",
   excerpt: "Most B2B organisations have strong strategies but struggle to execute them consistently. The real challenge lies in the absence of a structured operating model that connects strategy, teams, and execution into a unified system.",
   author: "Sunjay Ramaswamy",
