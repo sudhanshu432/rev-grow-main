@@ -14,6 +14,155 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+  id: "14",
+  title: "Why Aligning Sales and Marketing Is Harder Than It Seems",
+  slug: "why-aligning-sales-and-marketing-is-harder-than-it-seems",
+  excerpt: "Sales and marketing misalignment is not a communication problem—it is a structural GTM design challenge. This article explores why alignment breaks down and what high-performing organisations do differently to fix it at the system level.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2026-03-18",
+  readTime: "15 min read",
+  tags: [
+    "Sales Alignment",
+    "Marketing Alignment",
+    "GTM Strategy",
+    "Revenue Operations",
+    "B2B Growth"
+  ],
+  seoKeywords: [
+    "sales and marketing alignment",
+    "sales marketing misalignment B2B",
+    "revenue operations alignment",
+    "GTM alignment challenges",
+    "B2B pipeline alignment",
+    "cross functional revenue teams",
+    "marketing sales coordination",
+    "predictable revenue systems",
+    "GTM execution alignment",
+    "B2B growth operating model"
+  ],
+  content: `
+
+## Introduction
+
+There is a moment in almost every B2B organisation where growth starts to feel more complicated than it should.
+
+Marketing is generating leads. Sales is working hard on conversions. Campaigns are running, pipelines are moving, dashboards are updating in real time. On the surface, everything appears operationally healthy. Yet when leadership looks at outcomes—revenue consistency, forecast accuracy, deal quality, and pipeline conversion stability—the story is different.
+
+Things don’t quite line up.
+
+Marketing believes demand generation is working because engagement metrics are strong. Sales believes lead quality is inconsistent because conversion rates are unpredictable. Operations sees data gaps between systems. Leadership sees a gap between plan and performance.
+
+And this is where a familiar narrative begins to form:
+
+“Sales and marketing need to align better.”
+
+It sounds simple. Almost intuitive. As if alignment is just a matter of communication, collaboration, or shared goals.
+
+But in practice, alignment between sales and marketing is one of the most difficult challenges in B2B organisations—not because teams do not want to work together, but because they are often operating within fundamentally different systems, incentives, and definitions of success.
+
+Marketing is typically optimised for demand creation. Its success is measured through engagement, reach, lead volume, cost per acquisition, and top-of-funnel efficiency. Sales, on the other hand, is optimised for revenue conversion. Its success is measured through pipeline velocity, win rates, deal size, and quota attainment.
+
+Both functions are rational. Both are performance-driven. But they are rarely structurally integrated in a way that ensures continuity across the full revenue lifecycle.
+
+This creates a hidden systems problem.
+
+What appears externally as “misalignment” is often actually a breakdown in how the GTM system is designed. The organisation does not have a single unified revenue engine—it has multiple sub-systems operating in parallel, each optimising for different outcomes.
+
+Over time, this leads to predictable friction points:
+
+Marketing passes leads that sales does not trust. Sales rejects leads that marketing considers qualified. Definitions of ICP drift between teams. Messaging becomes inconsistent across touchpoints. Attribution becomes contested rather than shared. And pipeline performance becomes dependent on interpretation rather than structure.
+
+At scale, these inconsistencies compound.
+
+Even small differences in qualification criteria, follow-up timing, or messaging interpretation can significantly impact conversion efficiency. The larger the organisation grows, the more pronounced these gaps become.
+
+Modern buyer behaviour further intensifies this complexity. B2B buyers now interact across multiple channels before ever engaging with sales. They consume content, compare vendors, involve stakeholders, and form opinions long before any formal qualification process begins. This means that the boundary between marketing and sales is no longer linear—it is continuous.
+
+Yet many organisations still operate with a fragmented funnel model, where marketing “hands off” leads to sales at a defined stage. In reality, the buyer journey does not respect this handoff. It flows across functions, channels, and timeframes simultaneously.
+
+This mismatch between internal structure and external behaviour is one of the core reasons alignment is so difficult to achieve.
+
+True alignment is not about better communication between teams. It is about redesigning the underlying system so that both functions operate within a shared framework of:
+
+- Unified ICP definition  
+- Shared pipeline quality standards  
+- Consistent messaging architecture  
+- Integrated funnel visibility  
+- Aligned revenue metrics  
+- Continuous feedback loops  
+
+Without this structural foundation, alignment becomes temporary at best and reactive at worst.
+
+This is why many organisations experience cycles of alignment initiatives that eventually fade. Workshops are conducted, KPIs are adjusted, dashboards are shared—but over time, structural incentives and operational realities pull teams back into their original patterns.
+
+The challenge, therefore, is not alignment as a concept.
+
+The challenge is alignment as a system design problem.
+
+And solving it requires moving beyond functional collaboration into true revenue architecture thinking—where marketing and sales are not separate entities attempting to coordinate, but components of a single, unified GTM engine designed to produce predictable outcomes.
+
+---
+
+## 1. Misaligned Incentives Create Structural Friction
+
+Sales and marketing operate under different success metrics, which naturally leads to divergent optimization behaviors unless unified at the system level.
+
+---
+
+## 2. ICP Misalignment Distorts Pipeline Quality
+
+When marketing and sales define ideal customers differently, pipeline quality becomes inconsistent and conversion efficiency drops significantly.
+
+---
+
+## 3. Handoff Gaps Break Revenue Continuity
+
+The transition from marketing-qualified to sales-qualified pipeline is often where structural leakage occurs due to inconsistent definitions and timing.
+
+---
+
+## 4. Messaging Inconsistency Weakens Buyer Trust
+
+When positioning changes across funnel stages, buyers experience friction that directly impacts conversion confidence and deal velocity.
+
+---
+
+## 5. Data Silos Prevent Shared Visibility
+
+Without unified data systems, both teams operate with partial visibility, leading to conflicting interpretations of performance.
+
+---
+
+## System-Level Insight
+
+Sales and marketing misalignment is not a communication failure—it is a structural GTM design failure.
+
+True alignment requires shared systems, not shared meetings.
+
+---
+
+## Conclusion
+
+Aligning sales and marketing is difficult not because teams resist collaboration, but because most organisations do not operate with a unified revenue architecture.
+
+Without structural integration, alignment remains temporary, fragile, and reactive.
+
+Sustainable alignment requires designing a system where both functions operate from the same source of truth, the same ICP definition, the same funnel logic, and the same revenue outcomes.
+
+---
+
+## From Functional Alignment to Revenue System Design
+
+For leadership teams, the real challenge is not improving collaboration between sales and marketing.
+
+It is designing a GTM system where alignment is built into the structure itself.
+
+At RevGrow, we help B2B organisations move beyond functional alignment into full revenue system design—creating GTM architectures that unify marketing, sales, and customer success into a predictable growth engine.
+
+`
+},
+
+  {
   id: "13",
   title: "The Hidden Complexity Behind Building a Demand Engine",
   slug: "the-hidden-complexity-behind-building-a-demand-engine",
