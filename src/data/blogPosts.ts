@@ -14,6 +14,195 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
 {
+  id: "10",
+  title: "5 Signs Your GTM Strategy Is Structurally Misaligned",
+  slug: "5-signs-your-gtm-strategy-is-structurally-misaligned",
+  excerpt: "Most GTM strategies fail not due to weak planning, but due to structural misalignment in execution systems. This article breaks down the key signals of breakdown across pipeline, channels, revenue functions, and data.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2026-04-29",
+  readTime: "15 min read",
+  tags: [
+    "GTM Strategy",
+    "Execution",
+    "B2B Growth",
+    "Revenue Operations",
+    "Operating Model"
+  ],
+  seoKeywords: [
+    "GTM strategy misalignment",
+    "strategy execution gap B2B",
+    "go to market execution issues",
+    "revenue operations alignment",
+    "B2B pipeline quality problems",
+    "cross functional GTM execution",
+    "scalable GTM systems",
+    "B2B growth challenges",
+    "execution vs strategy",
+    "predictable revenue growth systems"
+  ],
+  content: `
+
+## Introduction
+
+In most modern B2B organisations, go-to-market (GTM) underperformance is rarely caused by weak strategy.
+
+Across SaaS companies, enterprise technology providers, and services-led organisations, leadership teams invest heavily in designing structured GTM frameworks. These include ICP definitions, segmentation models, positioning strategies, multi-channel demand generation systems, and revenue forecasting mechanisms designed to enable scalable and predictable growth.
+
+On the surface, these systems appear mature and well-designed. Most organisations today also operate with advanced GTM technology stacks including CRM platforms, marketing automation tools, intent data systems, attribution models, and analytics dashboards.
+
+Despite this, a consistent pattern emerges across the B2B landscape:
+
+**Execution outcomes rarely reflect strategic intent.**
+
+Pipeline becomes inconsistent across quarters. Conversion rates fluctuate across channels and segments. Sales cycles become unpredictable. Marketing-generated leads fail to consistently convert into qualified opportunities. Customer journeys become fragmented. And despite increasing investment in tools, campaigns, and operational activity, revenue growth remains unstable.
+
+This gap is rarely a tactical execution issue. In most cases, it is structural.
+
+GTM strategy is often treated as a planning exercise rather than an operational system. However, execution does not emerge from strategy alone—it emerges from how effectively strategy is translated into a structured operating model.
+
+The operating model sits between strategy and execution. It determines whether intent becomes coordinated execution or fragmented activity.
+
+When this layer is weak:
+
+- Targeting becomes inconsistent across teams  
+- Channels operate in isolation  
+- Revenue functions optimise for conflicting KPIs  
+- Execution depends on individual effort  
+- Data fails to influence decisions  
+
+Over time, these gaps compound into a system where activity increases but predictability declines. This is not an execution effort problem—it is an execution architecture problem.
+
+---
+
+## 1. Pipeline Appears Active, but Lacks Economic Quality
+
+Many organisations generate sufficient pipeline volume but struggle with revenue quality.
+
+At a surface level:
+- Strong lead flow  
+- High engagement  
+- Active top-of-funnel performance  
+
+But deeper issues include:
+- Low MQL to SQL conversion  
+- Long and inconsistent sales cycles  
+- High mid-funnel drop-offs  
+- Weak deal economics  
+
+This signals misalignment between ICP, messaging, and buyer intent.
+
+---
+
+## 2. Channels Operate Independently Instead of as a System
+
+Most organisations assume multi-channel activity equals GTM maturity.
+
+In reality:
+- LinkedIn runs independently  
+- Email is disconnected  
+- Paid media operates in silos  
+- Events lack integration  
+
+This leads to fragmented buyer journeys.
+
+Without orchestration:
+- No sequential engagement  
+- No compounding impact  
+- No unified narrative across channels  
+
+---
+
+## 3. Revenue Functions Lack a Unified Commercial Model
+
+Marketing, sales, and customer success often operate independently.
+
+Typical structure:
+- Marketing focuses on leads  
+- Sales focuses on conversions  
+- Customer success focuses on retention  
+
+This creates:
+- Misaligned KPIs  
+- Weak handoffs  
+- Fragmented customer experience  
+- Reduced lifetime value  
+
+---
+
+## 4. Execution Is Driven by Effort, Not System Design
+
+When performance drops, organisations increase activity instead of fixing structure.
+
+This results in:
+- More campaigns  
+- More outreach  
+- More channels  
+
+But without systems:
+- Execution remains inconsistent  
+- Results are not repeatable  
+- Outcomes depend on individuals  
+
+---
+
+## 5. Data Exists but Is Not Embedded in Decisions
+
+Most organisations generate large volumes of GTM data but fail to operationalise it.
+
+Common issues:
+- Fragmented systems  
+- Weak funnel visibility  
+- Misaligned metrics  
+- Retrospective reporting  
+
+This leads to reactive decision-making instead of structured optimisation.
+
+---
+
+## The System-Level Pattern
+
+These issues are interconnected:
+
+- Weak targeting alignment  
+- Poor channel orchestration  
+- Functional silos  
+- Activity-driven execution  
+- Non-operational data systems  
+
+Together, they form GTM systems that are active but not effective.
+
+---
+
+## Conclusion
+
+GTM strategies rarely fail due to lack of execution effort.
+
+They fail due to lack of structural design.
+
+This results in:
+- Inconsistent pipeline  
+- Inefficient conversion  
+- Unpredictable growth  
+
+Fixing this requires system-level realignment, not tactical optimisation.
+
+Organisations that solve this shift from:
+- Activity → Impact  
+- Effort → Capability  
+- Variability → Predictability  
+
+---
+
+## From Structural Misalignment to Predictable Growth
+
+If your GTM system generates activity but not predictable outcomes, the issue lies in execution architecture, not effort.
+
+At RevGrow, we help B2B organisations design and operationalise GTM systems that translate strategy into structured, scalable execution models that deliver consistent revenue growth.
+
+`
+}
+,
+{
   id: "9",
   title: "Turning Strategy Into Execution Is Where Most Teams Struggle",
   slug: "turning-strategy-into-execution-is-where-most-teams-struggle",
@@ -568,8 +757,8 @@ It is whether the organisation has built the capability required to execute that
 At RevGrow, we help B2B organisations design and operationalise execution systems that translate strategic direction into measurable, scalable, and predictable growth outcomes.
 
 `
-},
-
+}
+,
 {
   id: "8",
   title: "Why Most GTM Strategies Fail During Execution",
