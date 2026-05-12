@@ -15,7 +15,7 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
   {
   id: "14",
-  title: "Why Sales and Marketing Alignment Breaks in B2B GTM Systems",
+  title: "Why Sales and Marketing Alignment Fails",
   slug: "why-sales-and-marketing-alignment-breaks-in-b2b-gtm-systems",
   excerpt: "Sales and marketing misalignment is not a communication problem—it is a structural GTM design challenge. This article explores why alignment breaks down and what high-performing organisations do differently to fix it at the system level.",
   author: "Sunjay Ramaswamy",
@@ -186,7 +186,7 @@ At RevGrow, we help B2B organisations design revenue systems that eliminate func
   excerpt: "Building a demand engine is not a campaign problem—it is a structural GTM challenge. This article breaks down the hidden layers of complexity across targeting, orchestration, systems, and revenue alignment that determine demand generation success.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-03-04",
-  readTime: "15 min read",
+  readTime: "18 min read",
   tags: [
     "Demand Generation",
     "GTM Strategy",
@@ -316,7 +316,7 @@ At RevGrow, we help B2B organisations design and operationalise demand engines t
   excerpt: "Predictable pipeline is not a result of more activity, but of structured GTM systems. This article breaks down how high-performing teams engineer consistency across targeting, channels, execution, and revenue alignment.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-02-22",
-  readTime: "15 min read",
+  readTime: "12 min read",
   tags: [
     "GTM Strategy",
     "Pipeline Generation",
@@ -510,7 +510,7 @@ At RevGrow, we help B2B organisations design GTM systems that transform fragment
   "excerpt": "Increasing campaign volume is often the default response to slowing growth in B2B organisations. However, without structural GTM alignment, more campaigns only amplify inefficiencies rather than solve them. This article breaks down why campaign-driven growth fails and what actually drives scalable revenue performance.",
   "author": "Sunjay Ramaswamy",
   "publishDate": "2026-02-11",
-  "readTime": "15 min read",
+  "readTime": "10 min read",
   "tags": [
     "GTM Strategy",
     "Demand Generation",
@@ -749,7 +749,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     excerpt: "Most GTM strategies fail not due to weak planning, but due to structural misalignment in execution systems. This article breaks down the key signals of breakdown across pipeline, channels, revenue functions, and data.",
     author: "Sunjay Ramaswamy",
     publishDate: "2026-01-30",
-    readTime: "15 min read",
+    readTime: "13 min read",
     tags: [
       "GTM Strategy",
       "Execution",
