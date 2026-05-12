@@ -17,7 +17,7 @@ export const blogPosts: BlogPost[] = [
   id: "9",
   title: "Turning Strategy Into Execution Is Where Most Teams Struggle",
   slug: "turning-strategy-into-execution-is-where-most-teams-struggle",
-  excerpt: "Most B2B organisations do not fail because of weak strategy. They struggle because strategy is rarely translated into structured execution systems that align teams, workflows, accountability, and buyer engagement into a scalable operating model.",
+  excerpt: "Strategy isn’t the problem in most B2B organisations—execution is. This article reveals why strong strategies fail in practice and how operating models and execution systems drive real, scalable growth.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-01-18",
   readTime: "14 min read",
