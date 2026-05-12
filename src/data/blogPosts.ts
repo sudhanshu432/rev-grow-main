@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
   slug: "5-signs-your-gtm-strategy-is-structurally-misaligned",
   excerpt: "Most GTM strategies fail not due to weak planning, but due to structural misalignment in execution systems. This article breaks down the key signals of breakdown across pipeline, channels, revenue functions, and data.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-29",
+  publishDate: "2026-01-30",
   readTime: "15 min read",
   tags: [
     "GTM Strategy",
