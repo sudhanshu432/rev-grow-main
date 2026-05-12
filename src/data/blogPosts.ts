@@ -15,30 +15,24 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
 {
   id: "7",
-  title: "Is Your Multi-Channel Demand Generation Strategy Structured or Just Fragmented Activity?",
-  slug: "multi-channel-demand-generation-structured-vs-fragmented-strategy",
-  excerpt: "Most B2B organisations use multiple marketing channels, but fail to integrate them into a structured demand generation system. Real growth comes from orchestration, not channel expansion.",
+  title: "The Structure Behind Effective Multi-Channel Demand Generation",
+  slug: "structure-behind-effective-multi-channel-demand-generation",
+  excerpt: "Multi-channel demand generation is often misunderstood as simply being present across platforms. In reality, effectiveness comes from structure, alignment, and system-driven execution across the entire buyer journey.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-10",
-  readTime: "16 min read",
-  tags: [
-    "Multi-Channel Demand Generation",
-    "B2B Growth",
-    "GTM Strategy",
-    "Pipeline",
-    "Revenue Operations"
-  ],
+  publishDate: "2025-12-29",
+  readTime: "12 min read",
+  tags: ["Demand Generation", "Multi-Channel Marketing", "B2B Growth", "GTM Strategy", "Revenue Strategy"],
   seoKeywords: [
-    "multi channel demand generation strategy",
-    "B2B demand generation system",
-    "GTM strategy B2B",
-    "pipeline generation framework",
-    "marketing and sales alignment",
-    "buyer journey mapping",
-    "revenue operations strategy",
-    "integrated marketing channels",
-    "predictable pipeline growth",
-    "B2B growth system"
+    "Multi Channel Demand Generation",
+    "B2B Demand Generation Strategy",
+    "GTM Strategy",
+    "Pipeline Growth",
+    "B2B Marketing Strategy",
+    "Revenue Operations",
+    "Customer Journey",
+    "Lead Generation",
+    "Demand Gen Framework",
+    "Marketing Alignment"
   ],
   content: `
 
