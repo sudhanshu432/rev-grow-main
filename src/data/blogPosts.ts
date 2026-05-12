@@ -17,7 +17,7 @@ export const blogPosts: BlogPost[] = [
   id: "9",
   title: "Turning Strategy Into Execution Is Where Most Teams Struggle",
   slug: "turning-strategy-into-execution-is-where-most-teams-struggle",
-  excerpt: "Strategy isn’t the problem in most B2B organisations—execution is. This article reveals why strong strategies fail in practice and how operating models and execution systems drive real, scalable growth.",
+  excerpt: "Strategy isn’t the problem in most B2B organisations execution is. This article reveals why strong strategies fail in practice and how operating models and execution systems drive real, scalable growth.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-01-18",
   readTime: "14 min read",
