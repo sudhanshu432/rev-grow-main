@@ -13,6 +13,7 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  
   {
   id: "22",
   title: "What CEOs Often Miss About Revenue Growth",
