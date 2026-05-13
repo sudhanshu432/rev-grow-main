@@ -20,7 +20,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "A large pipeline does not automatically create predictable revenue. Many B2B organisations mistake pipeline volume for pipeline reliability, leading to inconsistent forecasting, unstable conversion rates, and unpredictable growth. This article explores why pipeline predictability breaks down and how high-performing organisations build structured systems that create reliable revenue outcomes.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-01-14",
-  readTime: "21 min read",
+  readTime: "19 min read",
   tags: [
     "Pipeline Management",
     "Revenue Operations",
@@ -469,7 +469,7 @@ At RevGrow, we help B2B organisations design predictable revenue systems that st
   excerpt: "Poor market positioning does far more than weaken brand messaging. It silently increases customer acquisition costs, lowers conversion efficiency, creates pipeline instability, weakens pricing power, and reduces long-term revenue scalability. This article explores how positioning impacts every layer of the B2B revenue engine and why high-growth organisations treat positioning as a strategic growth infrastructure rather than a marketing exercise.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-01-06",
-  readTime: "20 min read",
+  readTime: "18 min read",
   tags: [
     "Market Positioning",
     "B2B Growth",
