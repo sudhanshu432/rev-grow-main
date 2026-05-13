@@ -14,6 +14,333 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+  id: "30",
+  title: "Building a Revenue Engine Around Buyer Intent",
+  slug: "building-a-revenue-engine-around-buyer-intent",
+  excerpt: "Buyer intent has become one of the most critical signals in modern B2B growth. Organisations that can systematically capture, interpret, and operationalise intent data are better positioned to improve conversion efficiency, shorten sales cycles, and build predictable revenue systems. This article explores how to design a revenue engine built around buyer intent signals.",
+  author: "Sunjay Ramaswamy",
+  publishDate: "2026-02-27",
+  readTime: "26 min read",
+  tags: [
+    "Buyer Intent",
+    "Revenue Engine",
+    "GTM Strategy",
+    "Demand Generation",
+    "Revenue Operations"
+  ],
+  seoKeywords: [
+    "buyer intent data B2B",
+    "revenue engine based on intent signals",
+    "intent driven GTM strategy",
+    "B2B buyer intent marketing",
+    "operationalizing buyer intent",
+    "predictable revenue engine",
+    "intent based demand generation",
+    "B2B sales intent signals",
+    "go to market intent strategy",
+    "conversion optimization B2B"
+  ],
+  content: `
+
+## Introduction
+
+Buying decisions in B2B markets rarely begin when a sales conversation starts.
+
+They begin much earlier—quietly, invisibly, and often without any direct interaction with the vendor.
+
+A prospect reads an article comparing solutions.  
+A team downloads a technical whitepaper.  
+A stakeholder visits pricing pages multiple times.  
+A decision-maker engages with competitor content.  
+An internal discussion begins around a specific problem category.  
+
+Individually, these actions may appear insignificant.
+
+But together, they form a pattern—one that reveals **intent**.
+
+This shift in how buying behaviour emerges has fundamentally changed how revenue is generated today.
+
+For years, B2B organisations relied heavily on structured funnels to understand demand:
+
+Awareness → Interest → Consideration → Decision
+
+But real buyer journeys no longer follow this linear structure.
+
+Instead, intent develops asynchronously across channels, stakeholders, and timeframes.
+
+Some buyers move quickly.  
+Others remain invisible for weeks or months.  
+Many engage heavily before ever speaking to sales.  
+And most arrive at sales conversations already informed, researched, and partially convinced.
+
+This creates a critical challenge for modern revenue teams:
+
+Traditional GTM systems are designed to *generate demand*, not to *recognise demand that already exists*.
+
+As a result, organisations often experience a persistent disconnect between:
+
+- High marketing activity  
+- Increasing content engagement  
+- Growing traffic and leads  
+
+…versus actual revenue conversion.
+
+The missing link is not effort.
+
+It is **intent visibility and operationalisation**.
+
+Buyer intent represents the earliest detectable signal of commercial readiness.
+
+But most organisations fail to convert intent into structured execution because it is not embedded into the revenue system itself.
+
+Instead, intent data remains:
+
+- Fragmented across tools  
+- Interpreted inconsistently across teams  
+- Underutilised in sales workflows  
+- Weakly connected to pipeline prioritisation  
+
+This creates a situation where signals exist, but systems fail to respond effectively.
+
+High-performing organisations operate differently.
+
+They treat buyer intent not as a marketing metric, but as a **core revenue input signal**.
+
+In these organisations:
+
+- Marketing uses intent to shape demand prioritisation  
+- Sales uses intent to prioritise outreach and engagement timing  
+- Revenue operations uses intent to structure pipeline flow  
+- Leadership uses intent to forecast demand shifts earlier  
+
+This alignment transforms intent from passive data into active commercial intelligence.
+
+The impact is significant.
+
+Instead of pushing all prospects through the same funnel, organisations begin to:
+
+- Identify high-probability buyers earlier  
+- Focus sales attention on real opportunities  
+- Reduce wasted outreach on low-intent leads  
+- Improve conversion efficiency across stages  
+- Shorten overall sales cycles  
+- Increase pipeline predictability  
+
+But achieving this requires more than just access to intent data.
+
+It requires a fundamentally different approach to revenue system design.
+
+Because a revenue engine built around buyer intent is not a marketing enhancement.
+
+It is a structural shift in how demand is detected, prioritised, and converted into revenue.
+
+Most GTM systems fail here because they still assume that:
+
+“All leads should be treated equally until qualified.”
+
+In intent-driven systems, this assumption no longer holds.
+
+Every signal matters.  
+Every behavioural pattern contributes to prioritisation.  
+Every interaction reshapes opportunity scoring.  
+Every engagement informs next-best action decisions.
+
+This is what separates reactive revenue systems from predictive ones.
+
+In a traditional model, revenue teams react to inbound volume.
+
+In an intent-driven model, revenue teams respond to **market behaviour in real time**.
+
+And this difference fundamentally changes performance outcomes.
+
+Because when buyer intent is properly integrated into the revenue engine:
+
+- Sales teams stop guessing who is ready  
+- Marketing stops optimizing for vanity engagement  
+- Pipeline becomes more accurate and qualified  
+- Conversion rates increase without additional spend  
+- Revenue forecasting becomes significantly more reliable  
+
+However, most organisations are still early in this transition.
+
+They may have intent tools.  
+They may have analytics dashboards.  
+They may even have behavioural data.
+
+But they do not yet have an **intent-driven revenue architecture**.
+
+This is where the real opportunity lies.
+
+Not in collecting more signals.
+
+But in building systems that convert signals into structured commercial action.
+
+## Why Buyer Intent Has Become the Core of Modern Revenue Systems
+
+The shift toward intent-driven revenue systems is not accidental.
+
+It is a response to fundamental changes in how B2B buying decisions are made.
+
+### 1. Buyers self-educate before engaging vendors
+
+Most buyers now complete a significant portion of their research independently.
+
+They evaluate:
+
+- Product comparisons  
+- Use cases  
+- Pricing benchmarks  
+- Peer reviews  
+- Competitor alternatives  
+
+before ever speaking to sales.
+
+This means traditional top-of-funnel engagement is no longer sufficient to understand demand.
+
+### 2. Decision journeys are non-linear
+
+Multiple stakeholders influence decisions at different stages.
+
+This creates:
+
+- Parallel research paths  
+- Delayed consensus building  
+- Multi-channel evaluation cycles  
+
+Intent signals emerge across this fragmented journey.
+
+### 3. Competition is evaluated earlier in the process
+
+Buyers increasingly compare vendors long before formal engagement.
+
+This makes early-stage intent signals highly predictive of outcomes.
+
+## 1. Capturing Intent Across the Entire Digital Footprint
+
+A revenue engine built around intent must begin with comprehensive signal capture.
+
+Intent does not exist in a single place.
+
+It appears across:
+
+- Website behaviour  
+- Content engagement  
+- Search patterns  
+- Third-party platforms  
+- CRM interactions  
+- Product usage (if applicable)  
+
+### Key intent categories include:
+
+- Topic-level intent (what problems buyers are researching)
+- Product-level intent (what solutions are being evaluated)
+- Competitive intent (which alternatives are being compared)
+- Timing intent (how urgent the buying process is)
+
+High-performing organisations unify these signals into a single view of buyer behaviour.
+
+## 2. Converting Intent Into Prioritisation Logic
+
+Capturing intent is not enough.
+
+The real value comes from prioritisation.
+
+Without prioritisation:
+
+- Sales teams chase low-value leads  
+- High-intent buyers are delayed  
+- Pipeline quality becomes inconsistent  
+
+Intent must be translated into:
+
+- Lead scoring models  
+- Account prioritisation frameworks  
+- Outreach sequencing logic  
+- Opportunity qualification thresholds  
+
+This ensures that revenue teams focus effort where probability of conversion is highest.
+
+## 3. Embedding Intent Into Sales Execution
+
+Sales execution must evolve from static outreach to intent-responsive engagement.
+
+This includes:
+
+- Trigger-based outreach workflows  
+- Behaviour-informed messaging  
+- Timing-based engagement strategies  
+- Contextual conversation design  
+
+Instead of asking “who should we contact?”, teams begin asking:
+
+“What behaviour indicates readiness to engage now?”
+
+## 4. Aligning Marketing Around Intent Signals
+
+Marketing becomes significantly more effective when guided by intent.
+
+Instead of broad campaigns, teams focus on:
+
+- High-intent topic clusters  
+- Demand-driven content creation  
+- Segment-specific messaging  
+- Behavioural retargeting strategies  
+
+This improves both engagement quality and conversion efficiency.
+
+## 5. Using Intent to Improve Forecast Accuracy
+
+Intent signals often appear before pipeline becomes visible.
+
+This allows organisations to:
+
+- Predict demand earlier  
+- Identify emerging opportunities  
+- Improve forecasting reliability  
+- Reduce revenue uncertainty  
+
+## 6. Building Closed Feedback Loops
+
+Intent systems must continuously improve.
+
+This requires feedback loops between:
+
+- Marketing → Sales outcomes  
+- Sales → Intent accuracy  
+- Revenue Ops → Model refinement  
+
+Without feedback loops, intent systems degrade over time.
+
+## Conclusion
+
+Building a revenue engine around buyer intent is not a tactical improvement.
+
+It is a structural transformation in how revenue is generated.
+
+Organisations that successfully operationalise intent gain a significant advantage:
+
+- Higher conversion efficiency  
+- Faster sales cycles  
+- Improved pipeline quality  
+- Stronger forecasting accuracy  
+- Reduced acquisition waste  
+
+But most importantly, they stop relying on assumptions about demand.
+
+Instead, they build systems that respond to **real buyer behaviour as it happens**.
+
+## From Signals to Revenue Systems
+
+The future of GTM performance will not be defined by who collects the most data.
+
+It will be defined by who converts intent into action most effectively.
+
+At RevGrow, we help B2B organisations design intent-driven revenue systems that connect buyer behaviour to execution, prioritisation, and predictable revenue growth.
+
+`
+},
+
+  {
   id: "29",
   title: "The Role of Market Intelligence in GTM Success",
   slug: "role-of-market-intelligence-in-gtm-success",
