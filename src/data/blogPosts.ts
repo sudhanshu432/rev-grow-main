@@ -13,6 +13,8 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  ,
+
   {
   id: "29",
   title: "The Role of Market Intelligence in GTM Success",
@@ -20,7 +22,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "Market intelligence has become one of the most critical drivers of modern GTM success. Organisations that fail to understand changing buyer behaviour, competitive dynamics, demand shifts, and market signals often struggle with positioning, conversion efficiency, and predictable growth. This article explores how market intelligence shapes high-performing GTM systems and why it has become essential for scalable revenue growth.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-02-14",
-  readTime: "24 min read",
+  readTime: "19 min read",
   tags: [
     "Market Intelligence",
     "GTM Strategy",
