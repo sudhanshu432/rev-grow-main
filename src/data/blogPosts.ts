@@ -13,8 +13,6 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
-  ,
-
   {
   id: "29",
   title: "The Role of Market Intelligence in GTM Success",
