@@ -20,7 +20,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "A large pipeline does not automatically create predictable revenue. Many B2B organisations mistake pipeline volume for pipeline reliability, leading to inconsistent forecasting, unstable conversion rates, and unpredictable growth. This article explores why pipeline predictability breaks down and how high-performing organisations build structured systems that create reliable revenue outcomes.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-01-14",
-  readTime: "19 min read",
+  readTime: "15 min read",
   tags: [
     "Pipeline Management",
     "Revenue Operations",
