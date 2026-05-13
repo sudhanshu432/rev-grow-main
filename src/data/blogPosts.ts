@@ -20,8 +20,8 @@ export const blogPosts: BlogPost[] = [
   slug: "what-a-scalable-b2b-growth-system-actually-looks-like",
   excerpt: "Scalable B2B growth is not created through isolated campaigns or short-term execution bursts. It is built through a structured growth system that aligns strategy, execution, buyer engagement, data, and revenue operations into a repeatable and predictable commercial engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-08",
-  readTime: "15 min read",
+  publishDate: "2025-11-09",
+  readTime: "12 min read",
   tags: [
     "B2B Growth",
     "GTM Strategy",
