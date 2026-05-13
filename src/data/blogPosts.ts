@@ -20,7 +20,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "Predictable pipeline is not a function of better campaigns or higher activity. It is the outcome of strong operational foundations that connect strategy, execution, data, and accountability into a unified revenue system. This article explores the structural elements required to build consistent pipeline generation in B2B organisations.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-03-09",
-  readTime: "27 min read",
+  readTime: "20 min read",
   tags: [
     "Pipeline Generation",
     "Revenue Operations",
