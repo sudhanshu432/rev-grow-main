@@ -286,7 +286,7 @@ And in doing so, it moved from a volatile lead-driven system to a compounding de
   content: `
 
 ## Introduction
-### Why Sustainable B2B Growth Is a System Design Problem, Not a Performance Problem
+ **Why Sustainable B2B Growth Is a System Design Problem, Not a Performance Problem**
 
 There is a persistent and deeply embedded misconception in modern B2B organisations that sustainable growth is primarily a function of execution quality. When revenue performance declines or becomes unpredictable, the immediate reaction is almost always tactical: increase outbound activity, scale marketing spend, hire additional sales representatives, introduce new automation tools, or refine messaging and positioning. These responses appear rational because they are visible, measurable, and easy to deploy. However, they rarely address the underlying structural reasons why growth instability exists in the first place.
 
@@ -414,7 +414,8 @@ Growth is not an outcome of effort. It is an outcome of architecture.
   ],
   content: `
 
-## Introduction (Why Scalable Growth Is Almost Always a Structural Problem)
+## Introduction 
+**Why Scalable Growth Is Almost Always a Structural Problem**
 
 There is a persistent misunderstanding in most B2B organisations that growth is primarily a function of better execution—better campaigns, better sales performance, better messaging, better tools, or better targeting. This assumption is comfortable because it localises the problem within teams and allows leadership to pursue improvement through incremental fixes. Yet, despite continuous investment in marketing activity, sales enablement, and technology stacks, many organisations still struggle to achieve consistent, scalable revenue growth.
 
@@ -554,7 +555,8 @@ At RevGrow, we help organizations design revenue architectures that convert frag
   ],
   content: `
 
-## Introduction (A System-Level View of Demand Generation Performance)
+## Introduction 
+**A System-Level View of Demand Generation Performance**
 
 Demand generation is often evaluated through a narrow lens of output metrics—campaign volume, lead counts, impressions, MQLs, or cost-per-lead efficiency. On the surface, these indicators create an impression of activity and momentum. Dashboards appear healthy, campaigns continue to run, and marketing teams report consistent performance against predefined KPIs. Yet, beneath this operational visibility, many B2B organisations face a persistent and increasingly difficult problem: the pipeline generated from demand efforts does not consistently convert into revenue.
 
@@ -679,7 +681,8 @@ At RevGrow, we help B2B organizations audit and redesign demand generation syste
   ],
   content: `
 
-## Introduction (The Hidden System Behind Conversion Performance)
+## Introduction 
+**The Hidden System Behind Conversion Performance**
 
 In most B2B organisations, conversion is treated as a moment of truth that belongs almost entirely to the sales team. When revenue underperforms, when deals fail to close at expected velocity, or when pipeline appears healthy but fails to translate into bookings, the immediate organizational instinct is to examine sales execution. Conversations quickly shift toward questions like: Are reps following up enough? Are they handling objections effectively? Is the closing discipline strong enough? Are incentives aligned correctly?
 
