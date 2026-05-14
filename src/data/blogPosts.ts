@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
   slug: "the-future-of-demand-generation-in-b2b-markets",
   excerpt: "Exploring the shift from activity-based marketing to system-oriented demand generation in modern B2B growth strategies.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-05-15",
   readTime: "10 min read",
   tags: [
     "Demand Generation",
@@ -184,7 +184,7 @@ Organizations that evolve toward this model will move beyond fragmented marketin
   slug: "how-leading-companies-structure-their-abm-programs",
   excerpt: "Learn how leading B2B organizations design intent-driven ABM systems to improve targeting precision and conversion quality.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-05-12",
   readTime: "18 min read",
   tags: [
     "Account Based Marketing",
@@ -356,7 +356,7 @@ When ABM is structurally designed—not tactically applied—it transforms enter
   slug: "why-one-company-rebuilt-its-revenue-operations-function",
   excerpt: "Inside the RevOps transformation that helped a B2B company eliminate GTM fragmentation and improve forecasting accuracy across the revenue engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-05-08",
   readTime: "15 min read",
   tags: [
     "Revenue Operations",
@@ -553,7 +553,7 @@ Organizations that rebuild RevOps as a unified system architecture achieve align
   slug: "how-abm-helped-a-growth-stage-company-enter-enterprise-markets",
   excerpt: "Breaking down the enterprise ABM framework that improved sales alignment, buyer engagement, and conversion quality for a B2B company.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-05-06",
   readTime: "10 min read",
   tags: [
     "Account Based Marketing",
@@ -750,7 +750,7 @@ It is achieved through more precise, structured, and multi-threaded account-leve
   slug: "the-importance-of-timing-in-b2b-demand-generation",
   excerpt: "A strategic framework exploring how timing misalignment in B2B demand generation impacts conversion efficiency and how signal-based systems can improve pipeline quality and revenue predictability",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-05-02",
   readTime: "18 min read",
   tags: [
     "Demand Generation",
@@ -946,7 +946,7 @@ It is the structural foundation of conversion efficiency.
   slug: "how-better-icp-definition-improved-win-rates",
   excerpt: "This strategic B2B case study reveals how data-driven ICP optimization transformed pipeline performance and sales conversion quality.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-29",
   readTime: "11 min read",
   tags: [
     "ICP Strategy",
@@ -1137,7 +1137,7 @@ The result was not just higher win rates, but a more predictable and efficient r
   slug: "the-real-problem-behind-declining-win-rates",
   excerpt: "Discover why conversion efficiency weakens in modern B2B systems and how high-performing teams fix the underlying operational gaps.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-27",
   readTime: "23 min read",
   tags: [
     "Win Rate Optimization",
@@ -1334,7 +1334,7 @@ Organizations that redesign upstream demand, qualification, and ICP systems will
   slug: "why-b2b-companies-confuse-pipeline-with-momentum",
   excerpt: "Learn why pipeline activity alone is a misleading growth metric and how modern B2B teams create scalable revenue momentum instead.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-23",
   readTime: "10 min read",
   tags: [
     "Pipeline Management",
@@ -1526,7 +1526,7 @@ It is the **acceleration of conversion across a fully aligned revenue architectu
   slug: "are-you-generating-intent-or-interrupting-buyers",
   excerpt: "The future of B2B growth is not attention-based marketing. It’s structured intent generation designed around real buyer behavior and revenue alignment.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-20",
   readTime: "18 min read",
   tags: [
     "Intent Marketing",
@@ -1716,7 +1716,7 @@ Organizations that design intent-aligned systems will consistently outperform—
   slug: "is-your-go-to-market-strategy-built-for-scale",
   excerpt: "Strategic framework analyzing whether modern B2B go-to-market (GTM) strategies are truly built for scalable growth or still rely on fragmented execution models.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-18",
   readTime: "24 min read",
   tags: [
     "GTM Strategy",
@@ -1906,7 +1906,7 @@ Organizations that treat GTM as a system will continue to compound growth withou
   slug: "the-framework-behind-predictable-pipeline-growth",
   excerpt: "Strategic breakdown of the operating systems, intent signals, and revenue alignment frameworks that consistently drive predictable pipeline growth at scale.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-13",
   readTime: "17 min read",
   tags: [
     "Pipeline Growth",
@@ -2092,7 +2092,7 @@ Organizations that build structured pipeline systems will achieve compounding pr
   slug: "how-strategic-positioning-improved-campaign-performance",
   excerpt: "Case study showing how positioning transformation drives higher conversions, stronger campaigns, and revenue growth in B2B systems.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-11",
   readTime: "20 min read",
   tags: [
     "Strategic Positioning",
@@ -2306,7 +2306,7 @@ It is a **core revenue performance driver** that determines how efficiently atte
   slug: "the-anatomy-of-an-effective-demand-generation-engine",
   excerpt: "A strategic breakdown of how modern B2B demand generation engines are structured, how they function across the buyer journey, and how high-performing organizations engineer predictable demand creation systems.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-07",
   readTime: "15 min read",
   tags: [
     "Demand Generation",
@@ -2522,7 +2522,7 @@ It is engineered.
   slug: "how-gtm-alignment-improved-revenue-predictability",
   excerpt: "A deep-dive case study explaining how go-to-market alignment across marketing, sales, and customer success significantly improved revenue predictability, pipeline stability, and forecast accuracy in a modern B2B organization.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-04-03",
   readTime: "27 min read",
   tags: [
     "GTM Alignment",
@@ -2755,7 +2755,7 @@ It is the foundation of predictable growth.
   slug: "the-new-rules-of-b2b-go-to-market-strategy",
   excerpt: "Strategic breakdown of how modern B2B go-to-market models are evolving from linear funnels to system-driven growth engines powered by intent, data, and unified execution.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-31",
   readTime: "22 min read",
   tags: [
     "GTM Strategy",
@@ -2964,7 +2964,7 @@ It is an architecture.
   slug: "from-fragmented-teams-to-unified-revenue-execution",
   excerpt: "A transformation case study explaining how a B2B organization moved from siloed marketing, sales, and customer success teams to a unified revenue execution system driven by shared metrics, aligned incentives, and operational coherence.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-28",
   readTime: "18 min read",
   tags: [
     "Revenue Execution",
@@ -3227,7 +3227,7 @@ In increasingly complex B2B markets, this is no longer an optimization strategy�
   slug: "what-happened-when-a-b2b-company-shifted-from-leads-to-demand-generation",
   excerpt: "A deep-dive case study exploring how a B2B company transformed its revenue performance by moving from lead-centric marketing to a demand generation system focused on intent, education, and long-term buyer influence.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-24",
   readTime: "25 min read",
   tags: [
     "Demand Generation",
@@ -3470,7 +3470,7 @@ And in doing so, it moved from a volatile lead-driven system to a compounding de
   slug: "the-strategic-framework-for-sustainable-b2b-growth",
   excerpt: "Sustainable B2B growth is not achieved through isolated tactics or short-term campaigns but through a structured strategic framework that aligns market understanding, revenue systems, execution discipline, and feedback intelligence into a unified operating model.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-21",
   readTime: "16 min read",
   tags: [
     "B2B Growth Strategy",
@@ -3599,7 +3599,7 @@ Growth is not an outcome of effort. It is an outcome of architecture.
   slug: "the-revenue-architecture-behind-scalable-growth",
   excerpt: "Scalable growth is not driven by isolated functions but by a structured revenue architecture that aligns strategy, execution, data, and buyer engagement into one unified system.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-19",
   readTime: "18 min read",
   tags: [
     "Revenue Architecture",
@@ -3740,7 +3740,7 @@ At RevGrow, we help organizations design revenue architectures that convert frag
   slug: "how-to-audit-your-demand-generation-strategy",
   excerpt: "A structured framework to evaluate whether your demand generation system is producing qualified, high-intent pipeline or just activity without revenue impact.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-14",
   readTime: "15 min read",
   tags: [
     "Demand Generation",
@@ -3866,7 +3866,7 @@ At RevGrow, we help B2B organizations audit and redesign demand generation syste
   slug: "your-sales-team-is-not-the-root-cause-of-low-conversion",
   excerpt: "Low conversion in B2B is often misdiagnosed as a sales performance problem. In reality, it is usually a systemic GTM and execution design issue spanning positioning, targeting, demand quality, and operating model gaps.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-10",
   readTime: "12 min read",
   tags: [
     "Sales Performance",
@@ -3980,7 +3980,7 @@ At RevGrow, we help organisations move beyond sales-level diagnosis and rebuild 
   slug: "more-martech-wont-solve-broken-gtm-strategy-b2b-revenue-systems",
   excerpt: "Adding more marketing technology does not fix GTM breakdowns. Without a strong operating model, martech only amplifies existing fragmentation in strategy, execution, and revenue alignment.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-08",
   readTime: "18 min read",
   tags: [
     "Martech",
@@ -4114,7 +4114,7 @@ At RevGrow, we help B2B organizations move beyond tool-driven execution by desig
   slug: "why-content-alone-does-not-create-demand-b2b-gtm-strategy",
   excerpt: "Content is often treated as a demand engine, but without distribution systems, intent alignment, and GTM structure, it fails to consistently generate qualified demand in B2B markets.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-04",
   readTime: "15 min read",
   tags: [
     "Demand Generation",
@@ -4231,7 +4231,7 @@ At RevGrow, we help B2B organisations design content-driven demand systems that 
   slug: "turning-gtm-strategy-into-operational-reality-b2b-execution-model",
   excerpt: "Most GTM strategies fail not because they are poorly designed, but because they are never fully translated into operational systems that guide execution across teams, data, and decision-making.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-03-01",
   readTime: "12 min read",
   tags: [
     "GTM Strategy",
@@ -4347,7 +4347,7 @@ At RevGrow, we help B2B organisations design and operationalise GTM systems that
   slug: "leadership-challenges-gtm-transformation-b2b-execution",
   excerpt: "GTM transformation fails not because of strategy, but because leadership struggles to redesign execution systems, align functions, and sustain operational discipline across the revenue engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-02-26",
   readTime: "16 min read",
   tags: [
     "GTM Transformation",
@@ -4472,7 +4472,7 @@ At RevGrow, we work with leadership teams to design GTM operating models that co
   slug: "lessons-from-scaling-a-multi-channel-gtm-strategy",
   excerpt: "Scaling a multi-channel GTM strategy requires far more than expanding marketing activity across platforms. The organisations that scale successfully build operational alignment, buyer-centric execution systems, channel coordination, and revenue visibility that allow growth to compound without increasing complexity or inefficiency.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-02-22",
   readTime: "20 min read",
   tags: [
     "GTM Strategy",
@@ -4873,7 +4873,7 @@ At RevGrow, we help B2B organisations design and operationalise scalable multi-c
   slug: "how-to-improve-campaign-roi-without-increasing-spend",
   excerpt: "Improving campaign ROI is no longer primarily about increasing budgets. High-performing B2B organisations improve marketing efficiency by optimising targeting, buyer alignment, operational execution, conversion systems, and revenue visibility across the entire GTM engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-02-19",
   readTime: "17 min read",
   tags: [
     "Campaign ROI",
@@ -5254,7 +5254,7 @@ At RevGrow, we help B2B organisations improve campaign ROI by aligning buyer int
   slug: "the-evolution-of-b2b-buyer-behaviour-in-2026",
   excerpt: "B2B buyer behaviour in 2026 has fundamentally changed. Buyers now operate independently, evaluate vendors across multiple channels, rely heavily on peer validation and intent-driven research, and expect personalised, low-friction engagement throughout the buying journey. Organisations that fail to adapt their GTM execution to these behavioural shifts risk declining conversion rates, longer sales cycles, and unpredictable revenue growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-17",
+  publishDate: "2026-02-16",
   readTime: "38 min read",
   tags: [
     "B2B Buyer Behaviour",
@@ -5642,7 +5642,7 @@ At RevGrow, we help B2B organisations redesign GTM execution around the realitie
   slug: "designing-a-multi-channel-demand-engine-that-scales",
   excerpt: "Scaling demand generation today requires more than adding channels or increasing campaigns. High-performing B2B organisations build integrated multi-channel demand engines that align buyer behavior, operational systems, messaging consistency, and revenue execution into a scalable growth framework.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-14",
+  publishDate: "2026-02-11",
   readTime: "15 min read",
   tags: [
     "Demand Generation",
@@ -6043,7 +6043,7 @@ At RevGrow, we help B2B organisations design scalable multi-channel demand engin
   slug: "illusion-of-pipeline-growth-in-b2b-saas",
   excerpt: "Pipeline growth in B2B SaaS often creates a misleading sense of momentum. Many organisations increase lead volume, meetings, and opportunities while conversion efficiency, buyer quality, and revenue predictability quietly decline underneath. Sustainable growth depends not on pipeline size alone, but on the operational quality behind it.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-12",
+  publishDate: "2026-02-08",
   readTime: "19 min read",
   tags: [
     "B2B SaaS",
@@ -6463,7 +6463,7 @@ At RevGrow, we help B2B SaaS organisations design GTM operating systems that ali
   slug: "what-investors-look-for-in-scalable-gtm-models",
   excerpt: "Investors do not simply evaluate revenue growth — they evaluate whether a company has built a scalable GTM system capable of sustaining predictable expansion over time. The strongest businesses demonstrate operational discipline, efficient customer acquisition, repeatable execution, and scalable revenue architecture.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-10",
+  publishDate: "2026-02-05",
   readTime: "14 min read",
   tags: [
     "GTM Strategy",
@@ -6863,7 +6863,7 @@ At RevGrow, we help B2B organisations design scalable revenue operating models t
   slug: "gtm-execution-challenges-nobody-talks-about",
   excerpt: "Most B2B organisations focus heavily on GTM strategy, but the real breakdown often happens during execution. Hidden operational inefficiencies, cross-functional misalignment, fragmented systems, and buyer-behavior disconnects quietly weaken pipeline performance long before leadership notices the impact.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-28",
+  publishDate: "2026-02-01",
   readTime: "32 min read",
   tags: [
     "GTM Execution",
@@ -7254,7 +7254,7 @@ At RevGrow, we help B2B organisations design GTM execution systems that align st
   slug: "why-high-traffic-doesnt-mean-high-demand",
   excerpt: "Many B2B organisations mistake traffic growth for genuine market demand. But visibility without buyer intent, conversion alignment, and commercial relevance often creates misleading growth signals that fail to translate into predictable revenue outcomes.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-17",
+  publishDate: "2026-01-29",
   readTime: "31 min read",
   tags: [
     "Demand Generation",
@@ -7614,7 +7614,7 @@ At RevGrow, we help B2B organisations design demand generation systems that alig
   slug: "psychology-behind-high-converting-b2b-campaigns",
   excerpt: "High-converting B2B campaigns are not driven by messaging alone—they are driven by psychological triggers that influence attention, trust, urgency, and decision-making. This article explores the cognitive and behavioral principles that shape campaign performance in modern GTM systems.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-06",
+  publishDate: "2026-01-25",
   readTime: "28 min read",
   tags: [
     "B2B Marketing Psychology",
@@ -7840,7 +7840,7 @@ At RevGrow, we help B2B organisations design psychology-driven GTM campaigns tha
   slug: "why-personalization-matters-more-than-volume",
   excerpt: "In modern B2B growth systems, scaling outreach volume no longer guarantees pipeline growth. Personalization driven by intent, context, and buyer relevance has become the primary driver of conversion efficiency, engagement quality, and predictable revenue outcomes.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-03-21",
+  publishDate: "2026-01-22",
   readTime: "25 min read",
   tags: [
     "Personalization",
@@ -8101,7 +8101,7 @@ At RevGrow, we help B2B organisations design personalization-driven GTM systems 
   slug: "operational-foundations-of-predictable-pipeline",
   excerpt: "Predictable pipeline is not a function of better campaigns or higher activity. It is the outcome of strong operational foundations that connect strategy, execution, data, and accountability into a unified revenue system. This article explores the structural elements required to build consistent pipeline generation in B2B organisations.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-03-09",
+  publishDate: "2026-01-18",
   readTime: "20 min read",
   tags: [
     "Pipeline Generation",
@@ -8345,7 +8345,7 @@ At RevGrow, we help B2B organisations design operational foundations that transf
   slug: "building-a-revenue-engine-around-buyer-intent",
   excerpt: "Buyer intent has become one of the most critical signals in modern B2B growth. Organisations that can systematically capture, interpret, and operationalise intent data are better positioned to improve conversion efficiency, shorten sales cycles, and build predictable revenue systems. This article explores how to design a revenue engine built around buyer intent signals.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-02-27",
+  publishDate: "2026-01-15",
   readTime: "26 min read",
   tags: [
     "Buyer Intent",
@@ -8672,7 +8672,7 @@ At RevGrow, we help B2B organisations design intent-driven revenue systems that 
   slug: "role-of-market-intelligence-in-gtm-success",
   excerpt: "Market intelligence has become one of the most critical drivers of modern GTM success. Organisations that fail to understand changing buyer behaviour, competitive dynamics, demand shifts, and market signals often struggle with positioning, conversion efficiency, and predictable growth. This article explores how market intelligence shapes high-performing GTM systems and why it has become essential for scalable revenue growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-02-14",
+  publishDate: "2026-01-11",
   readTime: "19 min read",
   tags: [
     "Market Intelligence",
@@ -9131,7 +9131,7 @@ At RevGrow, we help B2B organisations build intelligence-driven GTM systems that
   slug: "why-your-best-fit-customers-are-not-converting",
   excerpt: "Many B2B organisations successfully attract ideal-fit accounts but still struggle to convert them into revenue. The problem is often not targeting accuracy, but structural gaps across positioning, buyer alignment, qualification, sales execution, and GTM coordination. This article explores why high-fit prospects fail to convert and how organisations can build systems that improve conversion consistency across the full revenue journey.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-02-04",
+  publishDate: "2026-01-08",
   readTime: "24 min read",
   tags: [
     "B2B Sales",
@@ -9613,7 +9613,7 @@ At RevGrow, we help B2B organisations identify why high-fit customers fail to co
   slug: "how-to-diagnose-a-weak-b2b-pipeline",
   excerpt: "A weak B2B pipeline is rarely caused by a lack of activity alone. Most pipeline problems originate from deeper structural issues involving qualification, positioning, buyer alignment, conversion systems, and GTM execution. This article explores how to accurately diagnose pipeline weakness, identify hidden revenue bottlenecks, and build a more predictable pipeline system.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-01-24",
+  publishDate: "2026-01-04",
   readTime: "22 min read",
   tags: [
     "Pipeline Management",
@@ -10096,7 +10096,7 @@ At RevGrow, we help B2B organisations diagnose pipeline weaknesses at a structur
   slug: "is-your-pipeline-actually-predictable",
   excerpt: "A large pipeline does not automatically create predictable revenue. Many B2B organisations mistake pipeline volume for pipeline reliability, leading to inconsistent forecasting, unstable conversion rates, and unpredictable growth. This article explores why pipeline predictability breaks down and how high-performing organisations build structured systems that create reliable revenue outcomes.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-01-14",
+  publishDate: "2025-12-31",
   readTime: "15 min read",
   tags: [
     "Pipeline Management",
@@ -10545,7 +10545,7 @@ At RevGrow, we help B2B organisations design predictable revenue systems that st
   slug: "the-hidden-cost-of-poor-market-positioning",
   excerpt: "Poor market positioning does far more than weaken brand messaging. It silently increases customer acquisition costs, lowers conversion efficiency, creates pipeline instability, weakens pricing power, and reduces long-term revenue scalability. This article explores how positioning impacts every layer of the B2B revenue engine and why high-growth organisations treat positioning as a strategic growth infrastructure rather than a marketing exercise.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-01-06",
+  publishDate: "2025-12-28",
   readTime: "18 min read",
   tags: [
     "Market Positioning",
@@ -10912,7 +10912,7 @@ At RevGrow, we help B2B organisations design positioning systems that align buye
   slug: "gtm-strategy-lessons-from-high-growth-technology-companies",
   excerpt: "High-growth technology companies rarely achieve scalable revenue growth through product innovation alone. Their success is often driven by highly disciplined GTM systems, operational alignment, buyer-centric execution, and data-driven decision frameworks that enable consistent market expansion and predictable revenue performance.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-22",
+  publishDate: "2025-12-24",
   readTime: "20 min read",
   tags: [
     "GTM Strategy",
@@ -11360,7 +11360,7 @@ At RevGrow, we help B2B organisations design scalable GTM operating models that 
   slug: "building-demand-generation-around-buying-signals",
   excerpt: "Traditional demand generation strategies focused heavily on lead volume are becoming increasingly ineffective in modern B2B environments. High-performing organisations now build demand generation systems around real buying signals, behavioural intent, and timing-based engagement to improve pipeline quality, conversion efficiency, and revenue predictability.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-13",
+  publishDate: "2025-12-20",
   readTime: "19 min read",
   tags: [
     "Demand Generation",
@@ -11842,7 +11842,7 @@ At RevGrow, we help B2B organisations build demand generation systems designed a
   slug: "what-ceos-often-miss-about-revenue-growth",
   excerpt: "Many CEOs believe revenue growth is primarily driven by strategy, sales activity, or market expansion. In reality, sustainable B2B growth depends on the operational systems connecting strategy, execution, data, and cross-functional alignment into a scalable commercial engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-05",
+  publishDate: "2025-12-17",
   readTime: "17 min read",
   tags: [
     "Revenue Growth",
@@ -12292,7 +12292,7 @@ At RevGrow, we help B2B organisations design scalable GTM operating systems that
   slug: "how-data-driven-gtm-decisions-accelerated-growth",
   excerpt: "The fastest-growing B2B organisations are no longer relying on intuition alone. They are building data-driven GTM systems that improve pipeline quality, forecasting accuracy, conversion efficiency, and execution consistency across the entire revenue engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-11-30",
+  publishDate: "2025-12-13",
   readTime: "16 min read",
   tags: [
     "GTM Strategy",
@@ -12812,7 +12812,7 @@ At RevGrow, we help B2B organisations design data-driven GTM operating systems t
   slug: "why-your-pipeline-looks-healthy-but-fails-to-convert",
   excerpt: "Many B2B organisations generate significant pipeline volume but continue struggling with weak conversion rates, stalled opportunities, and unpredictable revenue outcomes. The real issue is often not pipeline quantity, but the absence of a structured conversion system built around qualification integrity, buyer behaviour, operational alignment, and execution discipline.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-11-19",
+  publishDate: "2025-12-09",
   readTime: "18 min read",
   tags: [
     "Pipeline Management",
@@ -13282,7 +13282,7 @@ At RevGrow, we help B2B organisations design scalable revenue systems that impro
   slug: "what-a-scalable-b2b-growth-system-actually-looks-like",
   excerpt: "Scalable B2B growth is not created through isolated campaigns or short-term execution bursts. It is built through a structured growth system that aligns strategy, execution, buyer engagement, data, and revenue operations into a repeatable and predictable commercial engine.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-11-09",
+  publishDate: "2025-12-06",
   readTime: "12 min read",
   tags: [
     "B2B Growth",
@@ -13742,7 +13742,7 @@ At RevGrow, we help B2B organisations design and operationalise scalable growth 
   slug: "the-operating-model-behind-consistent-revenue-growth",
   excerpt: "Consistent revenue growth is rarely the result of isolated campaigns or individual performance. It is the outcome of a structured operating model that aligns strategy, execution, teams, data, and buyer engagement into a scalable revenue system.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-05-08",
+  publishDate: "2025-12-02",
   readTime: "15 min read",
   tags: [
     "Revenue Operations",
@@ -14178,7 +14178,7 @@ At RevGrow, we help B2B organisations design and operationalise scalable revenue
   slug: "lead-generation-is-not-the-same-as-demand-generation",
   excerpt: "Many B2B teams confuse lead generation with demand generation, leading to short-term pipeline spikes but weak long-term growth. This article breaks down the structural differences and how high-performing companies build true demand systems.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-25",
+  publishDate: "2025-11-29",
   readTime: "14 min read",
   tags: [
     "Demand Generation",
@@ -14304,7 +14304,7 @@ At RevGrow, we help B2B organisations transition from lead-centric marketing mod
   slug: "how-leading-b2b-companies-align-sales-marketing-and-cs",
   excerpt: "Top-performing B2B organisations don’t treat sales, marketing, and customer success as separate functions. They design a unified revenue system that aligns incentives, data, and execution across the entire customer lifecycle.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-04-14",
+  publishDate: "2025-11-26",
   readTime: "15 min read",
   tags: [
     "Sales Alignment",
@@ -14422,7 +14422,7 @@ At RevGrow, we help B2B organisations design and operationalise unified revenue 
   slug: "the-real-reason-your-marketing-feels-busy-but-ineffective",
   excerpt: "Marketing teams often operate at high activity levels without proportional revenue impact. This article breaks down the structural GTM reasons behind ‘busy but ineffective’ marketing systems and what high-performing organisations do differently.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-03-31",
+  publishDate: "2025-11-22",
   readTime: "14 min read",
   tags: [
     "B2B Marketing",
@@ -14542,7 +14542,7 @@ At RevGrow, we help B2B organizations design and operationalize GTM systems that
   slug: "why-sales-and-marketing-alignment-breaks-in-b2b-gtm-systems",
   excerpt: "Sales and marketing misalignment is not a communication problem—it is a structural GTM design challenge. This article explores why alignment breaks down and what high-performing organisations do differently to fix it at the system level.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-03-18",
+  publishDate: "2025-11-18",
   readTime: "16 min read",
   tags: [
     "Sales Alignment",
@@ -14708,7 +14708,7 @@ At RevGrow, we help B2B organisations design revenue systems that eliminate func
   slug: "the-hidden-complexity-behind-building-a-demand-engine",
   excerpt: "Building a demand engine is not a campaign problem—it is a structural GTM challenge. This article breaks down the hidden layers of complexity across targeting, orchestration, systems, and revenue alignment that determine demand generation success.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-03-04",
+  publishDate: "2025-11-15",
   readTime: "18 min read",
   tags: [
     "Demand Generation",
@@ -14838,7 +14838,7 @@ At RevGrow, we help B2B organisations design and operationalise demand engines t
   slug: "how-high-performing-teams-build-predictable-pipeline",
   excerpt: "Predictable pipeline is not a result of more activity, but of structured GTM systems. This article breaks down how high-performing teams engineer consistency across targeting, channels, execution, and revenue alignment.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2026-02-22",
+  publishDate: "2025-11-11",
   readTime: "12 min read",
   tags: [
     "GTM Strategy",
@@ -15032,7 +15032,7 @@ At RevGrow, we help B2B organisations design GTM systems that transform fragment
   "slug": "more-campaigns-wont-fix-your-growth-problem",
   "excerpt": "Increasing campaign volume is often the default response to slowing growth in B2B organisations. However, without structural GTM alignment, more campaigns only amplify inefficiencies rather than solve them. This article breaks down why campaign-driven growth fails and what actually drives scalable revenue performance.",
   "author": "Sunjay Ramaswamy",
-  "publishDate": "2026-02-11",
+  "publishDate": "2025-11-08",
   "readTime": "10 min read",
   "tags": [
     "GTM Strategy",
@@ -15271,7 +15271,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     slug: "5-signs-your-gtm-strategy-is-structurally-misaligned",
     excerpt: "Most GTM strategies fail not due to weak planning, but due to structural misalignment in execution systems. This article breaks down the key signals of breakdown across pipeline, channels, revenue functions, and data.",
     author: "Sunjay Ramaswamy",
-    publishDate: "2026-01-30",
+    publishDate: "2025-11-04",
     readTime: "13 min read",
     tags: [
       "GTM Strategy",
@@ -15460,7 +15460,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     slug: "turning-strategy-into-execution-is-where-most-teams-struggle",
     excerpt: "Strategy isn’t the problem in most B2B organisations execution is. This article reveals why strong strategies fail in practice and how operating models and execution systems drive real, scalable growth.",
     author: "Sunjay Ramaswamy",
-    publishDate: "2026-01-18",
+    publishDate: "2025-10-31",
     readTime: "14 min read",
     tags: [
       "GTM Strategy",
@@ -16017,7 +16017,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     slug: "why-most-gtm-strategies-fail-during-execution",
     excerpt: "Most B2B organisations do not struggle with strategy creation—they struggle with execution. The real challenge lies in the absence of a structured operating model that connects strategy, teams, workflows, and buyer engagement into a scalable execution system.",
     author: "Sunjay Ramaswamy",
-    publishDate: "2026-01-08",
+    publishDate: "2025-10-29",
     readTime: "14 min read",
     tags: [
       "GTM Strategy",
@@ -16412,7 +16412,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     slug: "structure-behind-effective-multi-channel-demand-generation",
     excerpt: "Multi-channel demand generation is often misunderstood as simply being present across platforms. In reality, effectiveness comes from structure, alignment, and system-driven execution across the entire buyer journey.",
     author: "Sunjay Ramaswamy",
-    publishDate: "2025-12-29",
+    publishDate: "2025-10-26",
     readTime: "12 min read",
     tags: ["Demand Generation", "Multi-Channel Marketing", "B2B Growth", "GTM Strategy", "Revenue Strategy"],
     seoKeywords: [
@@ -16577,7 +16577,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     slug: "are-you-targeting-the-right-icp-or-just-a-broad-market",
     excerpt: "Many B2B organisations believe they have a defined ICP, but in practice operate on broad market assumptions. True growth comes from precision targeting, not wider reach.",
     author: "Sunjay Ramaswamy",
-    publishDate: "2025-12-18",
+    publishDate: "2025-10-24",
     readTime: "14 min read",
     tags: ["ICP Strategy", "B2B Growth", "Targeting", "Demand Generation", "Pipeline"],
     seoKeywords: [
@@ -16761,7 +16761,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
     slug: "pipeline-problems-are-rarely-a-sales-problem",
     excerpt: "Most B2B organisations assume pipeline underperformance is caused by weak sales execution. In reality, pipeline quality is shaped much earlier through targeting, positioning, demand generation, buyer engagement systems, and commercial alignment.",
     author: "Sunjay Ramaswamy",
-    publishDate: "2025-12-10",
+    publishDate: "2025-10-21",
     readTime: "15 min read",
     tags: [
       "Pipeline Generation",
@@ -17177,7 +17177,7 @@ At RevGrow, we help B2B organisations design GTM systems that align targeting, m
   slug: "demand-generation-isnt-a-campaign-its-a-commercial-strategy",
   excerpt: "Many B2B organisations still approach demand generation as a campaign function. In reality, it is a core commercial strategy that determines how effectively a business creates, converts, and sustains revenue growth.",
   author: "Sunjay Ramaswamy",
-  publishDate: "2025-12-03",
+  publishDate: "2025-10-20",
   readTime: "10 min read",
   tags: ["Demand Generation", "B2B Growth", "Revenue Strategy", "GTM Strategy", "Pipeline"],
   seoKeywords: [
@@ -17366,7 +17366,7 @@ At RevGrow, we work with organisations to build demand generation systems that a
     slug: "hidden-growth-barrier-uk-b2b-misaligned-gtm-strategy",
     excerpt: "Many UK B2B organisations struggle to achieve predictable, scalable revenue not because of poor effort, but because their go-to-market functions are misaligned. Learn why strategic clarity is the foundation of scalable growth.",
     author: "Mahi Shrivastava",
-    publishDate: "2025-11-28",
+    publishDate: "2025-10-09",
     readTime: "10 min read",
     tags: ["GTM Strategy", "B2B Marketing", "UK Business", "Business Growth", "Lead Generation", "Demand Generation", "Revenue Growth"],
     seoKeywords: [
@@ -17511,7 +17511,7 @@ If your organisation is preparing for its next stage of scale, our expert's team
     slug: "winning-leads-with-video-marketing-2026",
     excerpt: "Decision-makers don't just read anymore, they watch. Learn how to make video marketing a true lead generation engine and not just a content format in 2026.",
     author: "Mahi Shrivastava",
-    publishDate: "2025-11-15",
+    publishDate: "2025-10-05",
     readTime: "12 min read",
     tags: ["Video Marketing", "B2B Lead Generation", "Content Strategy", "Digital Marketing"],
     seoKeywords: [
@@ -17718,7 +17718,7 @@ So, start creating videos that convert, not just impress. Get your hands on our 
     slug: "build-scalable-b2b-lead-generation-strategy-2025",
     excerpt: "Generating leads isn't the challenge anymore—generating the right ones consistently is. Learn how to build a scalable, data-driven lead generation system that delivers predictable growth.",
     author: "Mahi Shrivastava",
-    publishDate: "2025-11-05",
+    publishDate: "2025-10-01",
     readTime: "8 min read",
     tags: ["Lead Generation", "B2B Marketing", "Sales Strategy", "Growth"],
     seoKeywords: [
