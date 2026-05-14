@@ -42,7 +42,8 @@ export const blogPosts: BlogPost[] = [
   ],
   content: `
 
-## Introduction (Why Revenue Operations Became the Breaking Point of Scalable Growth)
+## Introduction 
+**Why Revenue Operations Became the Breaking Point of Scalable Growth**
 
 In modern B2B organizations, growth rarely fails because of a single weak function. Instead, it begins to degrade silently when multiple go-to-market teams—marketing, sales, and customer success—start operating with different definitions of success, different data interpretations, and different operational rhythms.
 
@@ -238,7 +239,8 @@ Organizations that rebuild RevOps as a unified system architecture achieve align
   ],
   content: `
 
-## Introduction (Why Enterprise Expansion Required a Structural Shift, Not Just Better Marketing Execution)
+## Introduction 
+**Why Enterprise Expansion Required a Structural Shift, Not Just Better Marketing Execution**
 
 In many growth-stage B2B companies, the transition from mid-market traction to enterprise market penetration is often treated as a scaling exercise. The assumption is straightforward: if a company can successfully generate demand, close deals, and retain customers in the mid-market segment, then increasing budget allocation, expanding sales teams, and running larger campaigns should naturally unlock enterprise growth.
 
