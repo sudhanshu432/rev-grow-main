@@ -42,7 +42,7 @@ export const blogPosts: BlogPost[] = [
   ],
   content: `
 
-## Introduction (Why This Shift Became a Structural Turning Point in B2B Revenue Systems)
+## Introduction
 
 In the evolution of modern B2B growth systems, there are moments that do not merely represent performance changes—they represent structural resets. The shift from lead generation to demand generation is one such inflection point. It is not a marketing upgrade. It is not a channel optimization exercise. It is a fundamental redesign of how revenue is created, influenced, and sustained.
 
@@ -285,7 +285,8 @@ And in doing so, it moved from a volatile lead-driven system to a compounding de
   ],
   content: `
 
-## Introduction (Why Sustainable B2B Growth Is a System Design Problem, Not a Performance Problem)
+## Introduction:
+Why Sustainable B2B Growth Is a System Design Problem, Not a Performance Problem
 
 There is a persistent and deeply embedded misconception in modern B2B organisations that sustainable growth is primarily a function of execution quality. When revenue performance declines or becomes unpredictable, the immediate reaction is almost always tactical: increase outbound activity, scale marketing spend, hire additional sales representatives, introduce new automation tools, or refine messaging and positioning. These responses appear rational because they are visible, measurable, and easy to deploy. However, they rarely address the underlying structural reasons why growth instability exists in the first place.
 
