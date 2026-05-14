@@ -42,7 +42,8 @@ export const blogPosts: BlogPost[] = [
   ],
   content: `
 
-## Introduction (Why Demand Generation Is Being Rewritten for a Post-Volume Era in B2B Growth Systems)
+## Introduction 
+**Why Demand Generation Is Being Rewritten for a Post-Volume Era in B2B Growth Systems**
 
 For decades, demand generation in B2B markets has been built on a relatively simple operational assumption: if organizations increase visibility, expand reach, and scale campaign activity, they will proportionally increase pipeline volume and revenue outcomes. This assumption shaped the foundations of modern marketing systems—driving investment in advertising platforms, email automation tools, content syndication networks, and increasingly complex multi-channel campaign infrastructures.
 
@@ -206,7 +207,8 @@ Organizations that evolve toward this model will move beyond fragmented marketin
   ],
   content: `
 
-## Introduction (Why ABM Structure Determines Whether Enterprise Growth Scales or Stalls)
+## Introduction 
+**Why ABM Structure Determines Whether Enterprise Growth Scales or Stalls**
 
 In modern B2B organizations, Account-Based Marketing (ABM) is often positioned as a strategic upgrade to traditional demand generation. It is presented as a more focused, more personalized, and more efficient approach to targeting high-value enterprise accounts. As a result, many companies adopt ABM with the expectation that simply shifting from lead-based marketing to account-based targeting will automatically unlock enterprise pipeline growth.
 
