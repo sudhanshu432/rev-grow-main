@@ -20,7 +20,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "Scaling demand generation today requires more than adding channels or increasing campaigns. High-performing B2B organisations build integrated multi-channel demand engines that align buyer behavior, operational systems, messaging consistency, and revenue execution into a scalable growth framework.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-05-14",
-  readTime: "36 min read",
+  readTime: "15 min read",
   tags: [
     "Demand Generation",
     "GTM Strategy",
