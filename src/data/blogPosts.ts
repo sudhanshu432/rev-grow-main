@@ -20,7 +20,7 @@ export const blogPosts: BlogPost[] = [
   excerpt: "Pipeline growth in B2B SaaS often creates a misleading sense of momentum. Many organisations increase lead volume, meetings, and opportunities while conversion efficiency, buyer quality, and revenue predictability quietly decline underneath. Sustainable growth depends not on pipeline size alone, but on the operational quality behind it.",
   author: "Sunjay Ramaswamy",
   publishDate: "2026-05-12",
-  readTime: "35 min read",
+  readTime: "19 min read",
   tags: [
     "B2B SaaS",
     "Pipeline Growth",
