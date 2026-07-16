@@ -44,7 +44,7 @@ const ServiceCard = ({ Icon, title, subtitle, description, features, slug }: Ser
           </div>
         )}
       </div>
-      
+      {/*Updated code given below  */}
 {slug === "demand-generation-abm" ? (
   <a
     href="https://revgrow-services.co.uk/#demand-generation-abm"
@@ -70,6 +70,7 @@ const ServiceCard = ({ Icon, title, subtitle, description, features, slug }: Ser
     />
   </Link>
 )}
+
     </div>
   );
 };
