@@ -145,16 +145,34 @@ const Services = () => {
                   )}
                 </div>
                 
-                {/* Card Footer */}
-                <div className="pt-4 border-t border-border/50">
-                  <Link 
-                    to={`/services/${service.slug}`} 
-                    className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all"
-                  >
-                    <span>Learn more</span>
-                    <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-                  </Link>
-                </div>
+{/* Card Footer */}
+<div className="pt-4 border-t border-border/50">
+  {service.slug === "demand-generation-abm" ? (
+    <a
+      href="https://revgrow-services.co.uk/#demand-generation-abm"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all"
+    >
+      <span>Learn more</span>
+      <ArrowRight
+        size={16}
+        className="group-hover:translate-x-1 transition-transform"
+      />
+    </a>
+  ) : (
+    <Link
+      to={`/services/${service.slug}`}
+      className="inline-flex items-center gap-2 text-primary font-medium text-sm group-hover:gap-3 transition-all"
+    >
+      <span>Learn more</span>
+      <ArrowRight
+        size={16}
+        className="group-hover:translate-x-1 transition-transform"
+      />
+    </Link>
+  )}
+</div>
               </div>
             ))}
           </div>
