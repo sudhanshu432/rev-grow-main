@@ -45,13 +45,31 @@ const ServiceCard = ({ Icon, title, subtitle, description, features, slug }: Ser
         )}
       </div>
       
-      <Link 
-        to={`/services/${slug}`} 
-        className="flex items-center text-primary font-medium text-sm group-hover:gap-2 transition-all"
-      >
-        <span>Learn more</span>
-        <ArrowRight size={16} className="ml-1 group-hover:translate-x-1 transition-transform" />
-      </Link>
+{slug === "demand-generation-abm" ? (
+  <a
+    href="https://revgrow-services.co.uk/#demand-generation-abm"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center text-primary font-medium text-sm group-hover:gap-2 transition-all"
+  >
+    <span>Learn more</span>
+    <ArrowRight
+      size={16}
+      className="ml-1 group-hover:translate-x-1 transition-transform"
+    />
+  </a>
+) : (
+  <Link
+    to={`/services/${slug}`}
+    className="flex items-center text-primary font-medium text-sm group-hover:gap-2 transition-all"
+  >
+    <span>Learn more</span>
+    <ArrowRight
+      size={16}
+      className="ml-1 group-hover:translate-x-1 transition-transform"
+    />
+  </Link>
+)}
     </div>
   );
 };
