@@ -39,7 +39,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/services/demand-generation-abm" className="hover:text-primary transition-colors">
+                <Link to="https://revgrow-services.co.uk" className="hover:text-primary transition-colors">
                   Demand Generation & ABM
                 </Link>
               </li>
