@@ -47,7 +47,7 @@ const ServiceCard = ({ Icon, title, subtitle, description, features, slug }: Ser
       {/*Updated code given below  */}
 {slug === "demand-generation-abm" ? (
   <a
-    href="https://revgrow-services.co.uk/#demand-generation-abm"
+    href="https://revgrow-services.co.uk/"
     target="_blank"
     rel="noopener noreferrer"
     className="flex items-center text-primary font-medium text-sm group-hover:gap-2 transition-all"
